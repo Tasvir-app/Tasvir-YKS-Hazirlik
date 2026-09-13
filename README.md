@@ -183,50 +183,6 @@ turnuva istatistikleriyle anlat
 
 </details>
 
-### Geometri
-
-<table>
-  <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895" width="240" alt="TYT Geometri Açılar"/></a><br/><strong>Açılar</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8" width="240" alt="TYT Geometri Üçgenler"/></a><br/><strong>Üçgenler</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf" width="240" alt="TYT Geometri Çokgenler ve Dörtgenler"/></a><br/><strong>Çokgenler</strong></td>
-  </tr>
-</table>
-
-| Konu | Anlatım açısı | Sayfa | |
-|---|---|---:|---|
-| Doğruda ve Üçgende Açılar | Büyü asası hareketleri ve kale mimarisi (Elif) | 34 | [Aç](https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1) |
-| Üçgenler, Benzerlik ve Alan | Pist virajları ve araç geometrisi (Kaan) | 35 | [Aç](https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1) |
-| Çokgenler ve Dörtgenler | Blok yapıları ve yapı planları (Emre) | 35 | [Aç](https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1) |
-| Çember ve Daire | Gitar teknesi ve davul kasnağı (Derya) | 34 | [Aç](https://app.tasvir.ai/c/a4d87dc11577c02174930684551c3cfc48a413819dde9d811ef040e2d74e0914/1) |
-| Katı Cisimler | Basket topu ve saha ölçüleri (Mert) | 36 | [Aç](https://app.tasvir.ai/c/5df398e0f7d1b292d9b95d90193820d07e3220f6ecfd8813e49a21068dd26e3c/1) |
-| Analitik Geometri | Koşu rotası ve GPS (Selin) | 35 | [Aç](https://app.tasvir.ai/c/01f29f3cdb272e6ca2a9b5083d1e676dcb180fb4e22bbc8dd75d433193c418da/1) |
-
-<details>
-<summary><b>Bu dersin 6 isteminin tamamı</b></summary>
-
-```
-tyt açılar konu anlatımı yapar mısın, Elif 17 kız Harry Potter sever, açıları
-büyü asası hareketleri ve kale mimarisiyle anlat, merak ettirici sorularla
-
-tyt üçgenler konu anlatımı, Kaan 18 F1 sever, benzerliği pist virajları ve
-araç geometrisiyle anlat, heyecanlı olsun
-
-tyt çokgenler dörtgenler konu anlatımı, Emre 17 Minecraft'çı, blok yapılarıyla
-ve yapı planlarıyla anlat
-
-tyt çember daire konu anlatımı, Derya 17 kız gitarist, çemberi gitar teknesi ve
-davul kasnağıyla anlat, kancalı sorular olsun
-
-tyt katı cisimler konu anlatımı, Mert 18 basketbolcu, hacimleri basket topu ve
-saha ölçüleriyle anlat
-
-tyt analitik geometri (koordinat sistemi, doğru denklemi) konu anlatımı, Selin 18
-kız koşucu, koordinatları koşu rotası ve GPS ile anlat
-```
-
-</details>
-
 ### Fizik
 
 <table>
@@ -681,6 +637,52 @@ ayt bitki biyolojisi konu anlatımı, Derya 17 kampçı kız, kampta gördüğü
 
 ayt canlılar ve çevre konu anlatımı, Zeynep 17 hayvansever kız, doğal seçilimi
 kedi türlerinin evrimi üzerinden anlat, merak ettir çözümlü sorular ile
+```
+
+</details>
+
+---
+
+## TYT Geometri
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895" width="240" alt="TYT Geometri Açılar"/></a><br/><strong>Açılar</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8" width="240" alt="TYT Geometri Üçgenler"/></a><br/><strong>Üçgenler</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf" width="240" alt="TYT Geometri Çokgenler ve Dörtgenler"/></a><br/><strong>Çokgenler</strong></td>
+  </tr>
+</table>
+
+| Konu | Anlatım açısı | Sayfa | |
+|---|---|---:|---|
+| Doğruda ve Üçgende Açılar | Büyü asası hareketleri ve kale mimarisi (Elif) | 34 | [Aç](https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1) |
+| Üçgenler, Benzerlik ve Alan | Pist virajları ve araç geometrisi (Kaan) | 35 | [Aç](https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1) |
+| Çokgenler ve Dörtgenler | Blok yapıları ve yapı planları (Emre) | 35 | [Aç](https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1) |
+| Çember ve Daire | Gitar teknesi ve davul kasnağı (Derya) | 34 | [Aç](https://app.tasvir.ai/c/a4d87dc11577c02174930684551c3cfc48a413819dde9d811ef040e2d74e0914/1) |
+| Katı Cisimler | Basket topu ve saha ölçüleri (Mert) | 36 | [Aç](https://app.tasvir.ai/c/5df398e0f7d1b292d9b95d90193820d07e3220f6ecfd8813e49a21068dd26e3c/1) |
+| Analitik Geometri | Koşu rotası ve GPS (Selin) | 35 | [Aç](https://app.tasvir.ai/c/01f29f3cdb272e6ca2a9b5083d1e676dcb180fb4e22bbc8dd75d433193c418da/1) |
+
+<details>
+<summary><b>Bu dersin 6 isteminin tamamı</b></summary>
+
+```
+tyt açılar konu anlatımı yapar mısın, Elif 17 kız Harry Potter sever, açıları
+büyü asası hareketleri ve kale mimarisiyle anlat, merak ettirici sorularla
+
+tyt üçgenler konu anlatımı, Kaan 18 F1 sever, benzerliği pist virajları ve
+araç geometrisiyle anlat, heyecanlı olsun
+
+tyt çokgenler dörtgenler konu anlatımı, Emre 17 Minecraft'çı, blok yapılarıyla
+ve yapı planlarıyla anlat
+
+tyt çember daire konu anlatımı, Derya 17 kız gitarist, çemberi gitar teknesi ve
+davul kasnağıyla anlat, kancalı sorular olsun
+
+tyt katı cisimler konu anlatımı, Mert 18 basketbolcu, hacimleri basket topu ve
+saha ölçüleriyle anlat
+
+tyt analitik geometri (koordinat sistemi, doğru denklemi) konu anlatımı, Selin 18
+kız koşucu, koordinatları koşu rotası ve GPS ile anlat
 ```
 
 </details>
