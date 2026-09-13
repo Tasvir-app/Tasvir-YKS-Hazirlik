@@ -183,6 +183,50 @@ turnuva istatistikleriyle anlat
 
 </details>
 
+### Biyoloji
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd" width="240" alt="TYT Biyoloji Hücre ve Madde Geçişleri"/></a><br/><strong>Hücre</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>Kalıtım</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208" width="240" alt="TYT Biyoloji Ekosistem Ekolojisi"/></a><br/><strong>Ekosistem</strong></td>
+  </tr>
+</table>
+
+| Konu | Anlatım açısı | Sayfa | |
+|---|---|---:|---|
+| Canlıların Temel Bileşenleri | Kedi beslenmesindeki protein ve yağ (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/20e05113385eb23f40914d6731a5df7b4b2cac0fc5c7e75d2a597493d245a036/1) |
+| Hücre ve Madde Geçişleri | Hücre bir oyun üssü, organeller bina (Emre) | 35 | [Aç](https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1) |
+| Canlılar Dünyası ve Sınıflandırma | Kampta görülen canlılar (Derya) | 37 | [Aç](https://app.tasvir.ai/c/664c07ad6f49ced3458f9fff50b4138462602e4e47e83494f3e65ed717aa7258/1) |
+| Hücre Bölünmeleri ve Üreme | Kas gelişimi ve hücre yenilenmesi (Mert) | 39 | [Aç](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1) |
+| Kalıtım | DNA suç mahallindeki delil gibi (Selin) | 37 | [Aç](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1) |
+| Ekosistem Ekolojisi | Dünya uzaydaki tek ekosistemimiz (Ali) | 41 | [Aç](https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1) |
+
+<details>
+<summary><b>Bu dersin 6 isteminin tamamı</b></summary>
+
+```
+tyt canlıların temel bileşenleri konu anlatımı, Zeynep 17 kedili kız, kedisinin
+beslenmesindeki protein-yağ-karbonhidrat üzerinden anlat, merak uyandır
+
+tyt hücre konu anlatımı, Emre 17 Minecraft'çı, hücreyi bir oyun üssü gibi
+(organeller = binalar) anlat, kancalı sorularla
+
+tyt canlıların sınıflandırılması konu anlatımı, Derya 17 doğacı kız, kampta
+gördüğü canlılar üzerinden anlat, heyecanlı olsun
+
+tyt mitoz mayoz konu anlatımı, Mert 18 sporcu, kas gelişimi ve hücre yenilenmesi
+üzerinden anlat
+
+tyt kalıtım konu anlatımı, Selin 18 tıp hayalli true-crime sever, DNA'yı suç
+çözümündeki delil gibi anlatarak başla, çok merak ettirici olsun
+
+tyt ekosistem konu anlatımı, Ali 17 uzay sever, 'Dünya uzaydaki tek
+ekosistemimiz' açısından anlat, kancalar olsun
+```
+
+</details>
+
 ### Fizik
 
 <table>
@@ -280,50 +324,6 @@ kozmetik ürünlerin formülleri üzerinden anlat, eğlenceli olsun
 
 tyt asit baz tuz konu anlatımı, Selin 18 tıp hayalli, mide asidi ve ilaçlar
 üzerinden anlat, kancalı sorularla heyecanlı
-```
-
-</details>
-
-### Biyoloji
-
-<table>
-  <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd" width="240" alt="TYT Biyoloji Hücre ve Madde Geçişleri"/></a><br/><strong>Hücre</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>Kalıtım</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208" width="240" alt="TYT Biyoloji Ekosistem Ekolojisi"/></a><br/><strong>Ekosistem</strong></td>
-  </tr>
-</table>
-
-| Konu | Anlatım açısı | Sayfa | |
-|---|---|---:|---|
-| Canlıların Temel Bileşenleri | Kedi beslenmesindeki protein ve yağ (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/20e05113385eb23f40914d6731a5df7b4b2cac0fc5c7e75d2a597493d245a036/1) |
-| Hücre ve Madde Geçişleri | Hücre bir oyun üssü, organeller bina (Emre) | 35 | [Aç](https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1) |
-| Canlılar Dünyası ve Sınıflandırma | Kampta görülen canlılar (Derya) | 37 | [Aç](https://app.tasvir.ai/c/664c07ad6f49ced3458f9fff50b4138462602e4e47e83494f3e65ed717aa7258/1) |
-| Hücre Bölünmeleri ve Üreme | Kas gelişimi ve hücre yenilenmesi (Mert) | 39 | [Aç](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1) |
-| Kalıtım | DNA suç mahallindeki delil gibi (Selin) | 37 | [Aç](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1) |
-| Ekosistem Ekolojisi | Dünya uzaydaki tek ekosistemimiz (Ali) | 41 | [Aç](https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1) |
-
-<details>
-<summary><b>Bu dersin 6 isteminin tamamı</b></summary>
-
-```
-tyt canlıların temel bileşenleri konu anlatımı, Zeynep 17 kedili kız, kedisinin
-beslenmesindeki protein-yağ-karbonhidrat üzerinden anlat, merak uyandır
-
-tyt hücre konu anlatımı, Emre 17 Minecraft'çı, hücreyi bir oyun üssü gibi
-(organeller = binalar) anlat, kancalı sorularla
-
-tyt canlıların sınıflandırılması konu anlatımı, Derya 17 doğacı kız, kampta
-gördüğü canlılar üzerinden anlat, heyecanlı olsun
-
-tyt mitoz mayoz konu anlatımı, Mert 18 sporcu, kas gelişimi ve hücre yenilenmesi
-üzerinden anlat
-
-tyt kalıtım konu anlatımı, Selin 18 tıp hayalli true-crime sever, DNA'yı suç
-çözümündeki delil gibi anlatarak başla, çok merak ettirici olsun
-
-tyt ekosistem konu anlatımı, Ali 17 uzay sever, 'Dünya uzaydaki tek
-ekosistemimiz' açısından anlat, kancalar olsun
 ```
 
 </details>
