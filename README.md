@@ -7,7 +7,7 @@
 Kayıt yok, ücret yok, uygulama indirme yok. Linke tıkla, oku, yazdır.
 
 [![Kendi dokümanını üret](https://img.shields.io/badge/Kendi_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=top)
-[![tasvir.ai](https://img.shields.io/badge/tasvir.ai-0b0b12?style=for-the-badge)](https://tasvir.ai)
+[![tasvir.ai](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
 
 </div>
 
@@ -75,7 +75,7 @@ kuvvetleri nota frekanslarının katlanmasıyla (oktav) anlat
 
 Üçü de aynı müfredatı verir. Üçü de farklı bir dokümandır.
 
-**[Kendi konunu dene →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=try)** — ilk dokümanın ücretsiz.
+**[Kendi konunu dene →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=try)** — kayıt olunca hesabına 300 kredi geliyor, yaklaşık 5 sayfa; kart istenmiyor.
 
 ## Kapsam
 
@@ -713,6 +713,8 @@ sadece formüller, şekiller ve sık yapılan hatalar olsun, yazdırmaya uygun
 
 Dokümanlar A4 olarak yazdırılabilir; sayfa beğenilmezse yalnızca o sayfa yeniden üretilir.
 
+Okul, dershane ya da yayınevi adına deniyorsan pilot için yaz: [support@tasvir.ai](mailto:support@tasvir.ai?subject=Kurumsal%20pilot%20talebi). Ekibine kredi tanımlayıp kendi kaynaklarınızla üretmenizi sağlıyoruz.
+
 ## Dürüst sınırlar
 
 Bu repoyu bir kaynak olarak kullanacaksan bilmen gerekenler:
@@ -726,7 +728,7 @@ Eksik bir konuyu üretip paylaşmak istersen issue aç, listeye ekleyelim.
 
 ## Sık sorulanlar
 
-**Gerçekten ücretsiz mi?** Yukarıdaki 83 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen ilk dokümanın ücretsiz, sonrası kredili.
+**Gerçekten ücretsiz mi?** Yukarıdaki 83 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez 300 kredi tanımlanıyor: sayfa başına yaklaşık 60 kredi gittiği için bu yaklaşık 5 sayfa, yani tam bir doküman. Krediler 30 gün geçerli, kart bilgisi istenmiyor; bitince kredi paketi alırsın, abonelik yok.
 
 **Yazdırınca nasıl duruyor?** Dokümanlar A4 dikey olarak sayfalandı, 21-59 sayfa arası. Grafik ve çizimler baskıya uygun.
 
@@ -742,7 +744,7 @@ Eksik bir konuyu üretip paylaşmak istersen issue aç, listeye ekleyelim.
 
 ### Bu hafta hangi konuya çalışıyorsun?
 
-[![İlk dokümanını ücretsiz oluştur](https://img.shields.io/badge/%C4%B0lk_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCcretsiz_olu%C5%9Ftur-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
+[![300 kredi ile başla](https://img.shields.io/badge/300_kredi_ile_%C3%BCcretsiz_ba%C5%9Fla-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
 
