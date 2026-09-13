@@ -43,9 +43,9 @@ Hiçbirini insan eli ile dizmedik. Her biri aşağıdaki dört adımdan geçti v
 
 **1. Konuyu söylüyorsun.** `tyt üçgenler konu anlatımı, Kaan 18 F1 sever, benzerliği pist virajlarıyla anlat` — bu kadar. İstersen ders notunu, PDF'ini ya da tahta fotoğrafını da yükleyebilirsin.
 
-**2. Tasvir sana soru soruyor.** Kaç sayfa olsun, kim okuyacak, hangi örnekler girsin? Hazır seçeneklerden tıklıyorsun. Sohbetin sonunda bölüm bölüm bir plan çıkıyor; **sen onaylamadan tek sayfa yazılmıyor.** Sayfa sayısına da sen karar veriyorsun (1, 5, 10, 15, 25, 50).
+**2. Tasvir sana soru soruyor.** Kaç sayfa olsun, kim okuyacak, hangi örnekler girsin? Hazır seçeneklerden tıklıyorsun. Sohbetin sonunda bölüm bölüm bir plan çıkıyor; **sen onaylamadan tek sayfa yazılmıyor.** Sayfa sayısına da sen karar veriyorsun: tek dokunuşla 1, 5, 10, 15, 25, 50 — ya da kendi sayını yazıyorsun, 200 sayfaya kadar.
 
-**3. Sayfalar tek tek yazılıp çiziliyor.** Her sayfa iki geçişten geçiyor: önce metin ve sayfa düzeni, sonra o sayfanın görseli — geometrik çizim, grafik, tablo, LaTeX formül, zaman çizelgesi ya da yapay zekâ görseli. Sayfalar ayrı ayrı kaydediliyor, yani 40 sayfalık bir dokümanda 12. sayfada bir sorun olsa ilk 11 sayfa kaybolmuyor.
+**3. Sayfalar yazılıp çiziliyor.** Her sayfa iki geçişten geçiyor: önce metin ve sayfa düzeni, sonra o sayfanın görseli — geometrik çizim, grafik, tablo, LaTeX formül, zaman çizelgesi ya da yapay zekâ görseli. Birbirine bağlı sayfalar sırayla, bağımsız olanlar aynı anda yazılıyor ve her sayfa ayrı kaydediliyor; 40 sayfalık bir dokümanda 12. sayfada bir sorun olsa ilk 11 sayfa kaybolmuyor.
 
 **4. Okuyorsun, beğenmediğin sayfayı değiştiriyorsun, yazdırıyorsun.** Tek bir sayfayı yeniden ürettiğinde diğer sayfalara dokunulmuyor. Sonra PDF olarak indirip A4 yazdırıyorsun.
 
