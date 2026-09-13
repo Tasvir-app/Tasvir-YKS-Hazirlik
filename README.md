@@ -4,20 +4,60 @@
 
 ### Aynı konu, senin dünyanla anlatılmış.
 
-Kayıt yok, ücret yok, uygulama indirme yok. Linke tıkla, oku, yazdır.
-
 [![Kendi dokümanını üret](https://img.shields.io/badge/Kendi_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=top)
-[![tasvir.ai](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
+[![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
+[![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
+
+<br/>
+
+[![Tasvir demo videosu](https://img.youtube.com/vi/tZgCnnuzCYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
+
+*▲ 90 saniyede nasıl çalıştığını izle*
 
 </div>
 
-Aynı liste web sitesinde de gezilebilir duruyor: **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)** — ders ders kartlar ve 83 konunun tamamı.
+## Dokümanlardan altı tanesi
 
-Bu repodaki 83 linkin her biri, kayıt olmadan açılan gerçek bir konu anlatımı dokümanına gidiyor. Ortalama 34 sayfa; en kısası 21, en uzunu 59 sayfa. Düz metin değil: geometrik çizimler, grafikler, LaTeX formüller, tablolar ve zaman çizelgeleriyle sayfalanmış, A4 yazdırılabilir dokümanlar.
+Linke tıkla: doküman tarayıcıda açılır, istersen PDF olarak indirip yazdırırsın.
 
-Ama asıl mesele sayı değil. Bu dokümanların hiçbiri "herkes için" yazılmadı.
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662" width="240" alt="TYT Matematik Temel Kavramlar"/></a><br/><strong>TYT Matematik · Temel Kavramlar</strong><br/><sub>LoL istatistikleri ve maç skorları · 36 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>TYT Biyoloji · Kalıtım</strong><br/><sub>DNA suç mahallindeki delil gibi · 37 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f" width="240" alt="TYT Tarih Osmanlı Kuruluş ve Yükselme"/></a><br/><strong>TYT Tarih · Osmanlı</strong><br/><sub>Fetihler satranç hamleleri gibi · 35 sayfa</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="240" alt="TYT Coğrafya Dünya'nın Hareketleri ve İklim"/></a><br/><strong>TYT Coğrafya · Dünya ve İklim</strong><br/><sub>Astronot gözünden Dünya · 39 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4" width="240" alt="TYT Fizik Hareket ve Kuvvet"/></a><br/><strong>TYT Fizik · Hareket ve Kuvvet</strong><br/><sub>F1 araçlarıyla hız ve ivme · 36 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="240" alt="AYT Matematik Türev"/></a><br/><strong>AYT Matematik · Türev</strong><br/><sub>Anlık hız ve nabız değişimi · 34 sayfa</sub></td>
+  </tr>
+</table>
+
+**[83 dokümanın tamamı ders ders →](https://tasvir.ai/tr/yks/)** ya da [aşağıdaki listeden](#tyt) devam et.
+
+---
+
+## Bunlar nasıl üretildi? (aynısını sen de yapabilirsin)
+
+Hiçbirini insan eli ile dizmedik. Her biri aşağıdaki dört adımdan geçti ve **tek yazdığımız şey 1. adımdaki cümle.**
+
+**1. Konuyu söylüyorsun.** `tyt üçgenler konu anlatımı, Kaan 18 F1 sever, benzerliği pist virajlarıyla anlat` — bu kadar. İstersen ders notunu, PDF'ini ya da tahta fotoğrafını da yükleyebilirsin.
+
+**2. Tasvir sana soru soruyor.** Kaç sayfa olsun, kim okuyacak, hangi örnekler girsin? Hazır seçeneklerden tıklıyorsun. Sohbetin sonunda bölüm bölüm bir plan çıkıyor; **sen onaylamadan tek sayfa yazılmıyor.** Sayfa sayısına da sen karar veriyorsun (1, 5, 10, 15, 25, 50).
+
+**3. Sayfalar tek tek yazılıp çiziliyor.** Her sayfa iki geçişten geçiyor: önce metin ve sayfa düzeni, sonra o sayfanın görseli — geometrik çizim, grafik, tablo, LaTeX formül, zaman çizelgesi ya da yapay zekâ görseli. Sayfalar ayrı ayrı kaydediliyor, yani 40 sayfalık bir dokümanda 12. sayfada bir sorun olsa ilk 11 sayfa kaybolmuyor.
+
+**4. Okuyorsun, beğenmediğin sayfayı değiştiriyorsun, yazdırıyorsun.** Tek bir sayfayı yeniden ürettiğinde diğer sayfalara dokunulmuyor. Sonra PDF olarak indirip A4 yazdırıyorsun.
+
+> Metni ve çizimleri üreten taraf yapay zekâ. Ama sayfayı ölçüp A4'e yerleştiren, şekilleri gerçek koordinatlara çeviren taraf tarayıcının kendisi — dokümanlar bu yüzden baskıda dağılmıyor.
+
+**[Kendi dokümanını üret →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=how)** — kayıt olunca 300 kredi hesabına geliyor (yaklaşık 5 sayfa), kart istenmiyor.
+
+---
 
 ## Neden bunlar başka yerdekilere benzemiyor
+
+Repodaki 83 linkin her biri gerçek bir konu anlatımı dokümanına gidiyor: ortalama 34 sayfa, en kısası 21, en uzunu 59. İçlerinde geometrik çizimler, grafikler, LaTeX formüller, tablolar, zaman çizelgeleri ve konunun çözümlü soruları var; hepsi A4 sayfalandı.
 
 Bir konu anlatım videosu, onu izleyen 40.000 öğrencinin hepsine aynı örneği verir. Buradaki 83 doküman ise **on farklı öğrenciye, o öğrencinin dünyasından** yazıldı:
 
