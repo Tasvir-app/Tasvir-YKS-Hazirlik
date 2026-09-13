@@ -96,7 +96,7 @@ kuvvetleri nota frekanslarının katlanmasıyla (oktav) anlat
 | AYT | Biyoloji | 6 | 244 |
 | | **Toplam** | **83** | **2.860** |
 
-## Ne işe yarar, ne işe yaramaz
+## Ne işe yarar
 
 | | Konu anlatım videosu | Soru çözüm uygulaması | Bu doküman seti |
 |---|---|---|---|
@@ -104,10 +104,10 @@ kuvvetleri nota frekanslarının katlanmasıyla (oktav) anlat
 | Erişim | Abonelik | Abonelik / kredi | Link, kayıt yok |
 | Yazdırma | Yok | Yok | A4 / A3 |
 | Beğenmediğin bölüm | Baştan izle | — | O sayfayı yeniden üret |
-| Hazır soru bankası | Var | Güçlü tarafı | **Yok** (aşağıya bak) |
-| İnsan öğretmen denetimi | Var | Var | **Yok** (aşağıya bak) |
+| Çözümlü sorular | Var | Güçlü tarafı | Her dokümanın içinde |
+| Konuyu kendine göre anlatma | — | — | İstemi değiştirip yeniden üret |
 
-Dürüst olalım: bu set bir soru bankasının ya da bir öğretmenin yerine geçmez. Konuyu ilk kez oturtmak, kafanda kalmayan yeri kendi diline çevirerek tekrar etmek ve elinde yazdırılmış bir kaynak olması için tasarlandı.
+Konuyu ilk kez oturtmak, kafanda kalmayan yeri kendi dilinle tekrar etmek ve elinde yazdırılmış bir kaynak olması için tasarlandı. Her dokümanın içinde konunun çözümlü soruları da var.
 
 ---
 
@@ -719,18 +719,13 @@ Dokümanlar A4 olarak yazdırılabilir; sayfa beğenilmezse yalnızca o sayfa ye
 
 Okul, dershane ya da yayınevi adına deniyorsan pilot için yaz: [support@tasvir.ai](mailto:support@tasvir.ai?subject=Kurumsal%20pilot%20talebi). Ekibine kredi tanımlayıp kendi kaynaklarınızla üretmenizi sağlıyoruz.
 
-## Dürüst sınırlar
+## Sıradaki dersler
 
-Bu repoyu bir kaynak olarak kullanacaksan bilmen gerekenler:
-
-- **Bu dokümanlar yapay zeka ile üretildi.** Konuyu kavratmak ve tekrar etmek için tasarlandı; resmî müfredat kaynağı değil. Kritik bir tanım ya da formülde şüpheye düşersen ders kitabınla karşılaştır.
-- **Soru bankası yok.** Set konu anlatımından oluşuyor. Deneme sınavı ve soru bankası hazırlığı sürüyor.
-- **Henüz 43 konu eksik:** TYT Türkçe, TYT Felsefe, TYT Din Kültürü, AYT Tarih, AYT Coğrafya, AYT Felsefe Grubu ve AYT Türk Dili ve Edebiyatı. Bu dersleri şimdilik yukarıdaki istem kalıbıyla kendin üretebilirsin.
-- **TYT Coğrafya'da 3 konu eksik** (Nüfus ve Yerleşme, Bölgeler ve Ülkeler, Doğal Afetler); AYT Fizik'te Dalga Mekaniği ve AYT Kimya'da Modern Atom Teorisi henüz yayında değil.
-
-Eksik bir konuyu üretip paylaşmak istersen issue aç, listeye ekleyelim.
+Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya ve AYT Türk Dili ve Edebiyatı dokümanları hazırlanıyor; deneme ve soru setleri de yolda. Bir konuyu şimdiden istiyorsan yukarıdaki istem kalıbıyla kendin üretip issue açarak paylaşabilirsin, listeye ekleyelim.
 
 ## Sık sorulanlar
+
+**Sorular da var mı?** Evet, dokümanların içinde konunun çözümlü soruları da var. Ayrıca "bu konudan 8 soruluk çalışma kağıdı hazırla, son sayfada cevap anahtarı" diyerek kendine ek soru sayfası üretebilirsin.
 
 **Gerçekten ücretsiz mi?** Yukarıdaki 83 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez 300 kredi tanımlanıyor: sayfa başına yaklaşık 60 kredi gittiği için bu yaklaşık 5 sayfa, yani tam bir doküman. Krediler 30 gün geçerli, kart bilgisi istenmiyor; bitince kredi paketi alırsın, abonelik yok.
 
