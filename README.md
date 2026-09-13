@@ -11,6 +11,8 @@ Kayıt yok, ücret yok, uygulama indirme yok. Linke tıkla, oku, yazdır.
 
 </div>
 
+Aynı liste web sitesinde de gezilebilir duruyor: **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)** — ders ders kartlar ve 83 konunun tamamı.
+
 Bu repodaki 83 linkin her biri, kayıt olmadan açılan gerçek bir konu anlatımı dokümanına gidiyor. Ortalama 34 sayfa; en kısası 21, en uzunu 59 sayfa. Düz metin değil: geometrik çizimler, grafikler, LaTeX formüller, tablolar ve zaman çizelgeleriyle sayfalanmış, A4 yazdırılabilir dokümanlar.
 
 Ama asıl mesele sayı değil. Bu dokümanların hiçbiri "herkes için" yazılmadı.
