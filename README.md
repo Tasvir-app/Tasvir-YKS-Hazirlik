@@ -9,12 +9,12 @@
 **Aynı konu, senin dünyanla anlatılmış.** Sen de tek cümleyle kendi dokümanını üretebilirsin.
 
 [![Kendi dokümanını üret](https://img.shields.io/badge/Kendi_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=top)
-[![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
+[![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
 
 <br/>
 
-[![Tasvir demo videosu](https://img.youtube.com/vi/tZgCnnuzCYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tZgCnnuzCYA)
+[![Tasvir demo videosu](https://img.youtube.com/vi/o5D5XRN3bdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 
 *▲ 90 saniyede nasıl çalıştığını izle*
 
