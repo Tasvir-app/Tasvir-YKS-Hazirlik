@@ -41,6 +41,8 @@ Linke tıkla: doküman tarayıcıda açılır, istersen PDF olarak indirip yazd�
 
 **[83 dokümanın tamamı ders ders →](https://tasvir.ai/tr/yks/)** ya da [aşağıdaki listeden](#tyt) devam et.
 
+> **Sadece YKS değil.** Bu repo sınava hazırlananlar için; aynı sistem film ve oyun rehberi, kulüp tarihi, seyahat rehberi, akademik tez, dergi ve çocuk kitabı da üretiyor. Konu dışı örnekler: **[Tasvir ana repo](https://github.com/Tasvir-app/Tasvir)**.
+
 ---
 
 ## Bunlar nasıl üretildi? (aynısını sen de yapabilirsin)
