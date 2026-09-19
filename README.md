@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-preview.png" width="820" alt="Tasvir YKS — 83 doküman, 2.860 sayfa"/>
+
 # YKS Konu Anlatımı — Yapay Zekânın Yazdığı 83 Doküman, 2.860 Sayfa
 
 ### Biz tek cümle yazdık; gerisini yapay zekâ sordu, planladı, yazdı ve çizdi.
