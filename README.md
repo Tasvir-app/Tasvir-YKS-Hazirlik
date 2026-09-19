@@ -788,6 +788,7 @@ Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya v
 ### Bu hafta hangi konuya çalışıyorsun?
 
 [![300 kredi ile başla](https://img.shields.io/badge/300_kredi_ile_%C3%BCcretsiz_ba%C5%9Fla-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
+[![Tasvir ana repo](https://img.shields.io/badge/YKS_d%C4%B1%C5%9F%C4%B1_%C3%B6rnekler_%E2%86%92-0b0b12?style=for-the-badge)](https://github.com/Tasvir-app/Tasvir)
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
 
