@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/social-preview.png" width="820" alt="Tasvir YKS — 83 doküman, 2.860 sayfa"/>
+<img src="assets/social-preview.png" width="820" alt="Tasvir YKS — 127 doküman, 3.172 sayfa: 83 konu anlatımı ve 44 test"/>
 
-# YKS Konu Anlatımı — Yapay Zekânın Yazdığı 83 Doküman, 2.860 Sayfa
+# YKS Konu Anlatımı ve Testler — Yapay Zekânın Yazdığı 127 Doküman, 3.172 Sayfa
 
 ### Biz tek cümle yazdık; gerisini yapay zekâ sordu, planladı, yazdı ve çizdi.
 
-**Aynı konu, senin dünyanla anlatılmış.** Sen de tek cümleyle kendi dokümanını üretebilirsin.
+**Aynı konu, senin dünyanla anlatılmış.** 83 konu anlatımı, 44 test — sen de tek cümleyle kendi dokümanını üretebilirsin.
 
 [![Kendi dokümanını üret](https://img.shields.io/badge/Kendi_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=top)
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
@@ -20,7 +20,7 @@
 
 </div>
 
-Buna "agentic" deniyor ve şu kadar basit: yapay zekâ tek soruya tek cevap vermiyor. Önce sana soru soruyor — kaç sayfa olsun, kim okuyacak, hangi örnekler girsin. Sonra bölüm bölüm bir plan çıkarıyor, sen onaylıyorsun. Ondan sonra 40 sayfalık dokümanı adım adım kendi yazıyor, her sayfanın çizimini kendi çiziyor. Aşağıdaki 83 doküman böyle çıktı; birini bile elle dizmedik.
+Buna "agentic" deniyor ve şu kadar basit: yapay zekâ tek soruya tek cevap vermiyor. Önce sana soru soruyor — kaç sayfa olsun, kim okuyacak, hangi örnekler girsin. Sonra bölüm bölüm bir plan çıkarıyor, sen onaylıyorsun. Ondan sonra 40 sayfalık dokümanı adım adım kendi yazıyor, her sayfanın çizimini kendi çiziyor. Aşağıdaki 127 doküman — 83 konu anlatımı ve 44 test — böyle çıktı; birini bile elle dizmedik.
 
 ## Dokümanlardan altı tanesi
 
@@ -154,7 +154,9 @@ kuvvetleri nota frekanslarının katlanmasıyla (oktav) anlat
 | AYT | Fizik | 8 | 227 |
 | AYT | Kimya | 9 | 284 |
 | AYT | Biyoloji | 6 | 244 |
-| | **Toplam** | **83** | **2.860** |
+| | **Konu anlatımı toplamı** | **83** | **2.860** |
+| TYT/AYT | [Testler ve denemeler](#testler-ve-denemeler) | 44 | 312 |
+| | **Genel toplam** | **127** | **3.172** |
 
 ## Ne işe yarar
 
@@ -749,6 +751,101 @@ kız koşucu, koordinatları koşu rotası ve GPS ile anlat
 
 ---
 
+## Testler ve denemeler
+
+Konu anlatımı bitince sıra ölçmeye geliyor: aynı sistem 44 test daha yazdı, toplam 312 sayfa. Her testte kapak sayfası (ad-soyad, süre, puan), şıklı sorular, şemalar ve grafikler var; **cevap anahtarı dokümanın sonunda.** Hepsi kayıt istemeden açılıyor, A4 yazdırılıyor.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9621128e2d287032f131fecce8e13def802e988b428a1ab65731a713ea71c995/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9621128e2d287032f131fecce8e13def802e988b428a1ab65731a713ea71c995" width="240" alt="Matematik Mert İçin Spor Temalı Matematik Problemleri"/></a><br/><strong>Matematik · Mert İçin Spor Temalı Matematik Problemleri</strong><br/><sub>7 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/c4c45bd35689bf36dd5d46b1fe087d96a4971d9611e9b1a8da053c37369a82e2/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/c4c45bd35689bf36dd5d46b1fe087d96a4971d9611e9b1a8da053c37369a82e2" width="240" alt="Fizik F1 Dinamiği ve Hareket Mekaniği Sınavı"/></a><br/><strong>Fizik · F1 Dinamiği ve Hareket Mekaniği Sınavı</strong><br/><sub>11 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/d32ca2e15b7eb95f6c66852875284c40f7015aecac53ae4e65e3af3e0399a406/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/d32ca2e15b7eb95f6c66852875284c40f7015aecac53ae4e65e3af3e0399a406" width="240" alt="Kimya Kimyasal Denge: Stratejik Hamleler Sınavı"/></a><br/><strong>Kimya · Kimyasal Denge: Stratejik Hamleler Sınavı</strong><br/><sub>10 sayfa · cevap anahtarı sonda</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e9d060474cf003b9661a5206dc03221728f9ffb3a96940b30ce91c3b82cbbd1f/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e9d060474cf003b9661a5206dc03221728f9ffb3a96940b30ce91c3b82cbbd1f" width="240" alt="Biyoloji Adli Genetik ve Kalıtım Deneme Sınavı"/></a><br/><strong>Biyoloji · Adli Genetik ve Kalıtım Deneme Sınavı</strong><br/><sub>9 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/1fb22927525982fd7ea7957e4fc5b02960ce57d17fdb23e2703dbf65e2edd934/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/1fb22927525982fd7ea7957e4fc5b02960ce57d17fdb23e2703dbf65e2edd934" width="240" alt="Tarih Osmanlı Kuruluş ve Yükselme Strateji Testi"/></a><br/><strong>Tarih · Osmanlı Kuruluş ve Yükselme Strateji Testi</strong><br/><sub>9 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e8f60eb57928eb299ce4b5addf8b5baad6081c91826feea8be861bebc43fbc94/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e8f60eb57928eb299ce4b5addf8b5baad6081c91826feea8be861bebc43fbc94" width="240" alt="Coğrafya İklim Bilgisi ÖSYM Deneme Sınavı"/></a><br/><strong>Coğrafya · İklim Bilgisi ÖSYM Deneme Sınavı</strong><br/><sub>8 sayfa · cevap anahtarı sonda</sub></td>
+  </tr>
+</table>
+
+**[Testlerin tamamı web sitesinde →](https://tasvir.ai/tr/yks/#testler)**
+
+### Matematik · 9 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| Zeynep İçin ÖSYM Tarzı Polinomlar Testi | 5 | [Aç](https://app.tasvir.ai/c/9a0f824b33ade70feedeb66850e1951c0ae6d824a0fa15ebff8389aefbf1e7c1/1) |
+| Zeynep İçin Günlük Hayat Matematik Denemesi | 5 | [Aç](https://app.tasvir.ai/c/a6038c84f0b1b208f43df5d6eb015c290c62a336ec80bf23778bf12bcdfbc210/1) |
+| Merve ile Sayma ve Olasılık Modası | 5 | [Aç](https://app.tasvir.ai/c/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb/1) |
+| TYT Fonksiyonlar Tematik Deneme Testi | 5 | [Aç](https://app.tasvir.ai/c/84466088251ccc67353e1aa232a443adb621c914f075e94ad6958778bd9270dc/1) |
+| Derya ile Kümeler ve Mantık Testi | 5 | [Aç](https://app.tasvir.ai/c/061ed1a19ce13e97d22b4b5cdc72e6bc67f47c0a442105ba02f2dc1c9ed61dbe/1) |
+| Mert İçin Spor Temalı Matematik Problemleri | 7 | [Aç](https://app.tasvir.ai/c/9621128e2d287032f131fecce8e13def802e988b428a1ab65731a713ea71c995/1) |
+| Emre İçin Üslü ve Köklü Sayılar Görevi | 7 | [Aç](https://app.tasvir.ai/c/855a7d27248f6fd7ff42962e930fdb9613a6dbbe741a0464380fa265cc0687ec/1) |
+| Zeynep İçin Rasyonel Sayılar Özel Denemesi | 4 | [Aç](https://app.tasvir.ai/c/0b491fe15a693b46534c9a6bf506c373420deed5ccafeb2707dc1bd97d303a67/1) |
+| Ali İçin Temel Kavramlar Testi | 6 | [Aç](https://app.tasvir.ai/c/9bc3ff51223bb54cdd59755d6639e7e6ffb0c12de404c43e19115da7a12eee6c/1) |
+
+### Fizik · 9 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| Çembersel Hareket F1 Sınavı | 6 | [Aç](https://app.tasvir.ai/c/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918/1) |
+| Elektrik ve Manyetizma İleri Düzey Sınavı | 14 | [Aç](https://app.tasvir.ai/c/bd022279461c03e7156cde596204c015887120078a6880d7d03a60e9a7ece2c5/1) |
+| ÖSYM Tarzı Optik Deneme Sınavı | 5 | [Aç](https://app.tasvir.ai/c/2ea4e99509292267b455d74f209eedfc84270379f59fac8769a815adbf0052cd/1) |
+| F1 Dinamiği ve Hareket Mekaniği Sınavı | 11 | [Aç](https://app.tasvir.ai/c/c4c45bd35689bf36dd5d46b1fe087d96a4971d9611e9b1a8da053c37369a82e2/1) |
+| Madde ve Özellikleri ÖSYM Deneme Testi | 6 | [Aç](https://app.tasvir.ai/c/8b4fd88890ce3203be5ce5cbc17c9c6f07610fbd5648b44cec6c1a94cd243ba5/1) |
+| Merve ile İçerik Üretiminde Fizik Testi | 4 | [Aç](https://app.tasvir.ai/c/7f462f867e84bf9226a2210b0c16f85ff52be5978a1bbdfe677b169c8ef7d734/1) |
+| Mert İçin Performans ve Enerji Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/647df9b459a3cb329a76f4bfe49bc431dc0630cf2b762ac72592e3ffa3af7c3d/1) |
+| Mert İçin Maddenin Halleri ve Spor Testi | 6 | [Aç](https://app.tasvir.ai/c/f2daed5fcb919dbe32a08fd93a5fd5ae8c17029fb52674d669561adbc99d70ff/1) |
+| Tıbbi Radyoaktivite ve Klinik Görüntüleme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a/1) |
+
+### Kimya · 7 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| AYT Kimya: Elektrokimya ve Batarya Testi | 7 | [Aç](https://app.tasvir.ai/c/baab5385b8e4ad8987874fa16d737f91de80b1b2498ac03729762658d13fe18b/1) |
+| Zeynep ile Asit-Baz Dengesi Sınavı | 4 | [Aç](https://app.tasvir.ai/c/19a68da6e31fd9a35f7be4963cf55c9135347378ba0b7df2a6894298d55225c7/1) |
+| Kimyasal Denge: Stratejik Hamleler Sınavı | 10 | [Aç](https://app.tasvir.ai/c/d32ca2e15b7eb95f6c66852875284c40f7015aecac53ae4e65e3af3e0399a406/1) |
+| Tepkimelerde Enerji ve Metabolizma Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/ad60f512ec76a972c01f444fef6f0e32cc982287a26a0e0b49ce847c88370c96/1) |
+| Çözeltiler ve Klinik Derişim Testi | 6 | [Aç](https://app.tasvir.ai/c/3ba78353a8020f407e3e12b4cf1fa6a7fd6e94d37f3fffe1ae602d70cccfceb2/1) |
+| Elif İçin Kimyasal Bağlar ÖSYM Denemesi | 6 | [Aç](https://app.tasvir.ai/c/ea949536d06f4806f7e615b4c506a362873fec4a074a4e2505f3be2cdbb02799/1) |
+| Ali İçin Atom ve Periyodik Sistem Deneme Sınavı | 7 | [Aç](https://app.tasvir.ai/c/a2ac36b96f24770aa676da315d14fd89cea7bc95ea41a14937db9b237478bd6b/1) |
+
+### Biyoloji · 5 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| Doğada Bitki Biyolojisi Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/e6d74f3c897bfc70e00a7411eac8142346ea00720d3afda4c69685ceee198972/1) |
+| İleri Düzey İnsan Fizyolojisi Deneme Sınavı | 21 | [Aç](https://app.tasvir.ai/c/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db/1) |
+| Adli Genetik ve Kalıtım Deneme Sınavı | 9 | [Aç](https://app.tasvir.ai/c/e9d060474cf003b9661a5206dc03221728f9ffb3a96940b30ce91c3b82cbbd1f/1) |
+| Hücre Bölünmeleri ÖSYM Tarzı Deneme | 9 | [Aç](https://app.tasvir.ai/c/a7a1e6b30ab5b3b5f9e42dfe83b442ea31d57fe8c42a5a9f6b26e014ddff6011/1) |
+| Kardiyovasküler Fizyoloji ve Kan Basıncı Testi | 11 | [Aç](https://app.tasvir.ai/c/23bd526812ddd8558fbedaea5e27e77c9c4a32d06e71deb7ba36e96b90a524dc/1) |
+
+### Tarih · 7 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| Soğuk Savaş Değerlendirme Testi | 6 | [Aç](https://app.tasvir.ai/c/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2/1) |
+| Savaşlar Arası Dönem Sistem Analizi | 6 | [Aç](https://app.tasvir.ai/c/efb513f0bed363cffe708d2df91d644cb700b35215619244d196181eefc16261/1) |
+| 1. Dünya Savaşı ve Osmanlı Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/c8445e6ceb66bcb114e5022ec97a0b6ede2eabfccdb1252e5b342e18c10f133e/1) |
+| Osmanlı Dağılma Dönemi Kronoloji Testi | 6 | [Aç](https://app.tasvir.ai/c/933606a25bfdcd2ed0bb12b39eec89d4030077977c6fb4c85467bc6b27ec4cc5/1) |
+| Osmanlı Kuruluş ve Yükselme Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/1fb22927525982fd7ea7957e4fc5b02960ce57d17fdb23e2703dbf65e2edd934/1) |
+| Hız ve Strateji: İslamiyet Öncesi Türk Tarihi | 5 | [Aç](https://app.tasvir.ai/c/a764f50f1ee27c9cfa961729458b6816cd6b3e2592e14af5634fd21ba6c7da71/1) |
+| İlk Çağ Medeniyetleri Strateji ve Analiz Testi | 9 | [Aç](https://app.tasvir.ai/c/0c77d3a8eab001a65ce508fc8b4691b33c16e7722bfa3c4d40372b0151be5fd2/1) |
+
+### Coğrafya · 7 test
+
+| Test | Sayfa | |
+|---|---:|---|
+| Küresel Ticaret ve Strateji Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/6ba0100ad89f3b43553104c5b1ac8ad5ab1ef8f3cdf85e7a73078a3a11506441/1) |
+| Moda ve Sosyal Medyada Küreselleşme Testi | 6 | [Aç](https://app.tasvir.ai/c/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db/1) |
+| Merve ile Nüfus ve Yerleşme Analitiği Testi | 7 | [Aç](https://app.tasvir.ai/c/2ccfffa325c435c0fe558c597cf10224da3cc498b975fad097bae4876c1710d1/1) |
+| Derya ile Doğada İç ve Dış Kuvvetler Testi | 6 | [Aç](https://app.tasvir.ai/c/1594c634aeef5b4f644e1381201a68c37dc011ed9dc7609387259d8bf8492780/1) |
+| İklim Bilgisi ÖSYM Deneme Sınavı | 8 | [Aç](https://app.tasvir.ai/c/e8f60eb57928eb299ce4b5addf8b5baad6081c91826feea8be861bebc43fbc94/1) |
+| Kalkınma Projeleri Strateji ve Yönetim Testi | 5 | [Aç](https://app.tasvir.ai/c/dbaab04b17786b28f7ad89474e20b79af00e2a07147746ab0f3c459407c675d7/1) |
+| Türkiye Ekonomisi ve Otomotiv Sektörü Testi | 9 | [Aç](https://app.tasvir.ai/c/ccb276f32849a7cb3fe8d9164f824be2d45bedd6c7ec6f33420a907a09ddfdf2/1) |
+
+---
+
 ## Öğretmenler için
 
 Bu dokümanların hepsi tek bir istemden çıktı. Aynı yöntem sınıf düzeyinde de çalışıyor: konuyu bir kez yazıp, sınıfının ilgi alanına göre üretmek, sonra çıktıyı çoğaltıp dağıtmak.
@@ -787,7 +884,7 @@ Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya v
 
 **Sorular da var mı?** Evet, dokümanların içinde konunun çözümlü soruları da var. Ayrıca "bu konudan 8 soruluk çalışma kağıdı hazırla, son sayfada cevap anahtarı" diyerek kendine ek soru sayfası üretebilirsin.
 
-**Gerçekten ücretsiz mi?** Yukarıdaki 83 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez 300 kredi tanımlanıyor: sayfa başına yaklaşık 60 kredi gittiği için bu yaklaşık 5 sayfa, yani tam bir doküman. Krediler 30 gün geçerli, kart bilgisi istenmiyor; bitince kredi paketi alırsın, abonelik yok.
+**Gerçekten ücretsiz mi?** Yukarıdaki 127 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez 300 kredi tanımlanıyor: sayfa başına yaklaşık 60 kredi gittiği için bu yaklaşık 5 sayfa, yani tam bir doküman. Krediler 30 gün geçerli, kart bilgisi istenmiyor; bitince kredi paketi alırsın, abonelik yok.
 
 **Yazdırınca nasıl duruyor?** Dokümanlar A4 dikey olarak sayfalandı, 21-59 sayfa arası. Grafik ve çizimler baskıya uygun.
 
