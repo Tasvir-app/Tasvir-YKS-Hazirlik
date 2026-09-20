@@ -71,7 +71,7 @@ Hiçbirini insan eli ile dizmedik. Her biri aşağıdaki dört adımdan geçti v
 
 > Metni ve çizimleri üreten taraf yapay zekâ. Ama sayfayı ölçüp A4'e yerleştiren, şekilleri gerçek koordinatlara çeviren taraf tarayıcının kendisi — dokümanlar bu yüzden baskıda dağılmıyor.
 
-**[Kendi dokümanını üret →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=how)** — kayıt olunca 300 kredi hesabına geliyor (yaklaşık 5 sayfa), kart istenmiyor.
+**[Kendi dokümanını üret →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=how)** — kayıt olunca hesabına hediye kredi geliyor, ilk dokümanına yeter; kart istenmiyor.
 
 ---
 
@@ -137,7 +137,7 @@ kuvvetleri nota frekanslarının katlanmasıyla (oktav) anlat
 
 Üçü de aynı müfredatı verir. Üçü de farklı bir dokümandır.
 
-**[Kendi konunu dene →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=try)** — kayıt olunca hesabına 300 kredi geliyor, yaklaşık 5 sayfa; kart istenmiyor.
+**[Kendi konunu dene →](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=try)** — kayıt olunca hesabına hediye kredi geliyor, ilk dokümanına yeter; kart istenmiyor.
 
 ## Kapsam
 
@@ -884,7 +884,7 @@ Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya v
 
 **Sorular da var mı?** Evet, dokümanların içinde konunun çözümlü soruları da var. Ayrıca "bu konudan 8 soruluk çalışma kağıdı hazırla, son sayfada cevap anahtarı" diyerek kendine ek soru sayfası üretebilirsin.
 
-**Gerçekten ücretsiz mi?** Yukarıdaki 127 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez 300 kredi tanımlanıyor: sayfa başına yaklaşık 60 kredi gittiği için bu yaklaşık 5 sayfa, yani tam bir doküman. Krediler 30 gün geçerli, kart bilgisi istenmiyor; bitince kredi paketi alırsın, abonelik yok.
+**Gerçekten ücretsiz mi?** Yukarıdaki 127 dokümanı açmak ve yazdırmak ücretsiz, kayıt da istemiyor. Kendi dokümanını üretmek istersen kayıt olunca hesabına bir kez hediye kredi tanımlanıyor: tam bir doküman üretmeye yeter. Kart bilgisi istenmiyor. Hediye kredinin güncel miktarı, geçerlilik süresi ve ilk doküman bittikten sonra kalan bakiyenin silinip silinmeyeceği kayıt ekranında yazıyor; bitince kredi paketi alırsın, abonelik yok.
 
 **Yazdırınca nasıl duruyor?** Dokümanlar A4 dikey olarak sayfalandı, 21-59 sayfa arası. Grafik ve çizimler baskıya uygun.
 
@@ -900,7 +900,7 @@ Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya v
 
 ### Bu hafta hangi konuya çalışıyorsun?
 
-[![300 kredi ile başla](https://img.shields.io/badge/300_kredi_ile_%C3%BCcretsiz_ba%C5%9Fla-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
+[![Ücretsiz başla](https://img.shields.io/badge/%C3%9Ccretsiz_ba%C5%9Fla-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
 [![Tasvir ana repo](https://img.shields.io/badge/YKS_d%C4%B1%C5%9F%C4%B1_%C3%B6rnekler_%E2%86%92-0b0b12?style=for-the-badge)](https://github.com/Tasvir-app/Tasvir)
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
