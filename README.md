@@ -48,7 +48,7 @@ Bu repo sınava hazırlananlar için, ama aynı sistem ders dışında da çalı
 <table>
   <tr>
     <td align="center" width="33%"><a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1"><img src="assets/doc-matrix.webp" width="240" alt="The Matrix Evren Rehberi"/></a><br/><strong>🎬 The Matrix</strong><br/><sub>Film zaman çizelgesi ve kırmızı/mavi hap şeması</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1"><img src="assets/doc-fenerbahce.webp" width="240" alt="Fenerbahçe 1907-2027"/></a><br/><strong>⚽ Fenerbahçe 1907-2027</strong><br/><sub>120 yıllık kulüp tarihi, dönem dönem istatistik</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df" width="240" alt="Inception: Zihnin Mimarisi"/></a><br/><strong>🎬 Inception</strong><br/><sub>Rüya katmanları, karakter haritası, zaman dilatasyonu</sub></td>
     <td align="center" width="33%"><a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c" width="240" alt="7 Günlük İstanbul Keşif Rehberi"/></a><br/><strong>🗺️ 7 Günlük İstanbul</strong><br/><sub>Gün gün rota, bütçe tablosu, sokak lezzetleri haritası</sub></td>
   </tr>
 </table>
