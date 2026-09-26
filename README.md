@@ -12,6 +12,8 @@
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
 
+[🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · **📚 YKS Hazırlık** · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
+
 <br/>
 
 [![Tasvir demo videosu](https://img.youtube.com/vi/o5D5XRN3bdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
