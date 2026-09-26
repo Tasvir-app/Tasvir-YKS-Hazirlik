@@ -55,6 +55,8 @@ Bu repo sınava hazırlananlar için, ama aynı sistem ders dışında da çalı
 
 Kara delikler, İlk Çağ Medeniyetleri, dinozorlar, akademik tez, dergi ve çocuk kitabı örnekleri: **[Tasvir ana repo →](https://github.com/Tasvir-app/Tasvir)**
 
+Çanakkale'yi Nolan storyboard'u, Türkiye illerini Pokémon kartı gibi anlatan 25 sahnelik 45 canvas serisi: **[Tasvir-Canvas-Mode-TR →](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR)**
+
 ---
 
 ## Bunlar nasıl üretildi? (aynısını sen de yapabilirsin)
