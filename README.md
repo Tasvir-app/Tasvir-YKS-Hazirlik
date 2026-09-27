@@ -878,7 +878,7 @@ sadece formüller, şekiller ve sık yapılan hatalar olsun, yazdırmaya uygun
 
 Dokümanlar A4 olarak yazdırılabilir; sayfa beğenilmezse yalnızca o sayfa yeniden üretilir.
 
-Okul, dershane ya da yayınevi adına deniyorsan pilot için yaz: [support@tasvir.ai](mailto:support@tasvir.ai?subject=Kurumsal%20pilot%20talebi). Ekibine kredi tanımlayıp kendi kaynaklarınızla üretmenizi sağlıyoruz.
+Okul, dershane ya da yayınevi adına deniyorsan **[kurum hesabını kendin aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=institutions)**: krediyi toplu alır, öğretmenlerine dağıtırsın. Pilot, havale ya da e-fatura için yaz: [support@tasvir.ai](mailto:support@tasvir.ai?subject=Kurumsal%20pilot%20talebi).
 
 ## Sıradaki dersler
 
