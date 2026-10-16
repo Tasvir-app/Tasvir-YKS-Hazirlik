@@ -10,7 +10,7 @@
 
 [![Kendi dokümanını üret](https://img.shields.io/badge/Kendi_dok%C3%BCman%C4%B1n%C4%B1_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=top)
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
-[![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
+[![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biz-tek-cumle-yazdik-tasvir-ai-tr)
 
 [🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · **📚 YKS Hazırlık** · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
 
@@ -30,18 +30,18 @@ Linke tıkla: doküman tarayıcıda açılır, istersen PDF olarak indirip yazd�
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662" width="240" alt="TYT Matematik Temel Kavramlar"/></a><br/><strong>TYT Matematik · Temel Kavramlar</strong><br/><sub>LoL istatistikleri ve maç skorları · 36 sayfa</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>TYT Biyoloji · Kalıtım</strong><br/><sub>DNA suç mahallindeki delil gibi · 37 sayfa</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f" width="240" alt="TYT Tarih Osmanlı Kuruluş ve Yükselme"/></a><br/><strong>TYT Tarih · Osmanlı</strong><br/><sub>Fetihler satranç hamleleri gibi · 35 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-tyt-matematik-temel-kavramlar"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662" width="240" alt="TYT Matematik Temel Kavramlar"/></a><br/><strong>TYT Matematik · Temel Kavramlar</strong><br/><sub>LoL istatistikleri ve maç skorları · 36 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-tyt-biyoloji-kalitim"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>TYT Biyoloji · Kalıtım</strong><br/><sub>DNA suç mahallindeki delil gibi · 37 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-tyt-tarih-osmanli-kurulus-ve-yukselme"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f" width="240" alt="TYT Tarih Osmanlı Kuruluş ve Yükselme"/></a><br/><strong>TYT Tarih · Osmanlı</strong><br/><sub>Fetihler satranç hamleleri gibi · 35 sayfa</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="240" alt="TYT Coğrafya Dünya'nın Hareketleri ve İklim"/></a><br/><strong>TYT Coğrafya · Dünya ve İklim</strong><br/><sub>Astronot gözünden Dünya · 39 sayfa</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4" width="240" alt="TYT Fizik Hareket ve Kuvvet"/></a><br/><strong>TYT Fizik · Hareket ve Kuvvet</strong><br/><sub>F1 araçlarıyla hız ve ivme · 36 sayfa</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="240" alt="AYT Matematik Türev"/></a><br/><strong>AYT Matematik · Türev</strong><br/><sub>Anlık hız ve nabız değişimi · 34 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-tyt-cografya-dunya-nin-hareketleri-ve-ik"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="240" alt="TYT Coğrafya Dünya'nın Hareketleri ve İklim"/></a><br/><strong>TYT Coğrafya · Dünya ve İklim</strong><br/><sub>Astronot gözünden Dünya · 39 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-tyt-fizik-hareket-ve-kuvvet"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4" width="240" alt="TYT Fizik Hareket ve Kuvvet"/></a><br/><strong>TYT Fizik · Hareket ve Kuvvet</strong><br/><sub>F1 araçlarıyla hız ve ivme · 36 sayfa</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-ayt-matematik-turev"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="240" alt="AYT Matematik Türev"/></a><br/><strong>AYT Matematik · Türev</strong><br/><sub>Anlık hız ve nabız değişimi · 34 sayfa</sub></td>
   </tr>
 </table>
 
-**[83 dokümanın tamamı ders ders →](https://tasvir.ai/tr/yks/)** ya da [aşağıdaki listeden](#tyt) devam et.
+**[83 dokümanın tamamı ders ders →](https://tasvir.ai/tr/yks/?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=dokumanlardan-alti-t-83-dokumanin-tamami-ders-ders)** ya da [aşağıdaki listeden](#tyt) devam et.
 
 ### Sadece YKS değil
 
@@ -49,9 +49,9 @@ Bu repo sınava hazırlananlar için, ama aynı sistem ders dışında da çalı
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1"><img src="assets/doc-matrix.webp" width="240" alt="The Matrix Evren Rehberi"/></a><br/><strong>🎬 The Matrix</strong><br/><sub>Film zaman çizelgesi ve kırmızı/mavi hap şeması</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df" width="240" alt="Inception: Zihnin Mimarisi"/></a><br/><strong>🎬 Inception</strong><br/><sub>Rüya katmanları, karakter haritası, zaman dilatasyonu</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c" width="240" alt="7 Günlük İstanbul Keşif Rehberi"/></a><br/><strong>🗺️ 7 Günlük İstanbul</strong><br/><sub>Gün gün rota, bütçe tablosu, sokak lezzetleri haritası</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=sadece-yks-degil-the-matrix-evren-rehberi"><img src="assets/doc-matrix.webp" width="240" alt="The Matrix Evren Rehberi"/></a><br/><strong>🎬 The Matrix</strong><br/><sub>Film zaman çizelgesi ve kırmızı/mavi hap şeması</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=sadece-yks-degil-inception-zihnin-mimarisi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df" width="240" alt="Inception: Zihnin Mimarisi"/></a><br/><strong>🎬 Inception</strong><br/><sub>Rüya katmanları, karakter haritası, zaman dilatasyonu</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=sadece-yks-degil-7-gunluk-istanbul-kesif-rehberi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22a5f10672416b1334acf5424c81f76e635ef76444469093b95748ba0e36107c" width="240" alt="7 Günlük İstanbul Keşif Rehberi"/></a><br/><strong>🗺️ 7 Günlük İstanbul</strong><br/><sub>Gün gün rota, bütçe tablosu, sokak lezzetleri haritası</sub></td>
   </tr>
 </table>
 
@@ -183,26 +183,26 @@ Konuyu ilk kez oturtmak, kafanda kalmayan yeri kendi dilinle tekrar etmek ve eli
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662" width="240" alt="TYT Matematik Temel Kavramlar"/></a><br/><strong>Temel Kavramlar</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb" width="240" alt="TYT Matematik Sayı Basamakları"/></a><br/><strong>Sayı Basamakları</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff" width="240" alt="TYT Matematik EBOB ve EKOK"/></a><br/><strong>EBOB ve EKOK</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-tyt-matematik-temel-kavramlar"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662" width="240" alt="TYT Matematik Temel Kavramlar"/></a><br/><strong>Temel Kavramlar</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-tyt-matematik-sayi-basamaklari"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb" width="240" alt="TYT Matematik Sayı Basamakları"/></a><br/><strong>Sayı Basamakları</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-tyt-matematik-ebob-ve-ekok"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff" width="240" alt="TYT Matematik EBOB ve EKOK"/></a><br/><strong>EBOB ve EKOK</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Temel Kavramlar | LoL istatistikleri ve maç skorları (Ali) | 36 | [Aç](https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1) |
-| Sayı Basamakları ve Bölünebilme | Bölünebilme kuralları büyü kuralları gibi (Elif) | 36 | [Aç](https://app.tasvir.ai/c/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb/1) |
-| EBOB ve EKOK | Kaynak yönetimi stratejisi (Burak) | 33 | [Aç](https://app.tasvir.ai/c/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff/1) |
-| Rasyonel Sayılar ve Sıralama | Albüm satış oranları ve oylamalar (Zeynep) | 34 | [Aç](https://app.tasvir.ai/c/275173421598d34ba02d8b2e36a3e41071301f9147f5570f63ec148a4fe34fcb/1) |
-| Mutlak Değer ve Eşitsizlikler | Pistteki mesafe farkları (Kaan) | 31 | [Aç](https://app.tasvir.ai/c/111973bec23c7af16bcaee9fc30b4c8692ada5e9df90e2530b75283d3c9690e1/1) |
-| Üslü ve Köklü Sayılar | 2'nin kuvvetleri, bit ve bellek (Emre) | 34 | [Aç](https://app.tasvir.ai/c/61512011a36333cfb60b1d36f177572db6dd39d2992c45d9590c3bdcc1b84d59/1) |
-| Çarpanlara Ayırma ve Özdeşlikler | Özdeşlikler anatomi kalıbı gibi (Selin) | 35 | [Aç](https://app.tasvir.ai/c/05dea591c4f79b48c17979feeaa13562e018201524cc4a1f1364906e44c5fe04/1) |
-| Problemler (Yaş, İşçi, Hız, Yüzde) | Maç ve antrenman senaryoları (Mert) | 37 | [Aç](https://app.tasvir.ai/c/db8e95629c8f1c3d683201b39824c3323d3c4e2b7d96c34368b73b9d4e5a8185/1) |
-| Kümeler ve Mantık | Playlist'ler ve festival katılımcıları (Derya) | 36 | [Aç](https://app.tasvir.ai/c/24d51611ef668a65d53e40d8a29f40e84e9851a30973548eee72c3ad135e7602/1) |
-| Fonksiyonlar | Girdi item, çıktı hasar (Ali) | 34 | [Aç](https://app.tasvir.ai/c/e0636107fbf78b5384ffa5c5fa8f7070b1cec526d0c7cf0509af9c13912b23cf/1) |
-| Permütasyon, Kombinasyon ve Olasılık | Kombin sayısı hesabı (Merve) | 34 | [Aç](https://app.tasvir.ai/c/7473d11c264184d7e609819bb826dcc08c8da22d22eed3b4eed7beceac339da1/1) |
-| Veri ve İstatistik | ELO puanı ve turnuva istatistikleri (Burak) | 32 | [Aç](https://app.tasvir.ai/c/29abd94cb7e3186ea3e3e6339e7c52f249b8619f25dd2791d84e4e6d2a1e2c36/1) |
+| Temel Kavramlar | LoL istatistikleri ve maç skorları (Ali) | 36 | [Aç](https://app.tasvir.ai/c/6d27650a27b10795855d6a6c7168c684b46c52747eab86b7db7600026c128662/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Sayı Basamakları ve Bölünebilme | Bölünebilme kuralları büyü kuralları gibi (Elif) | 36 | [Aç](https://app.tasvir.ai/c/08c8948f9eaf1d4c321ebec75ad7aced7783fc6a84f8efa133ff23145f5919fb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| EBOB ve EKOK | Kaynak yönetimi stratejisi (Burak) | 33 | [Aç](https://app.tasvir.ai/c/3f1d1ecd577477fab6446b7043280c1b16a4d0f2293aaa15fc2d50b981cfd4ff/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Rasyonel Sayılar ve Sıralama | Albüm satış oranları ve oylamalar (Zeynep) | 34 | [Aç](https://app.tasvir.ai/c/275173421598d34ba02d8b2e36a3e41071301f9147f5570f63ec148a4fe34fcb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Mutlak Değer ve Eşitsizlikler | Pistteki mesafe farkları (Kaan) | 31 | [Aç](https://app.tasvir.ai/c/111973bec23c7af16bcaee9fc30b4c8692ada5e9df90e2530b75283d3c9690e1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Üslü ve Köklü Sayılar | 2'nin kuvvetleri, bit ve bellek (Emre) | 34 | [Aç](https://app.tasvir.ai/c/61512011a36333cfb60b1d36f177572db6dd39d2992c45d9590c3bdcc1b84d59/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Çarpanlara Ayırma ve Özdeşlikler | Özdeşlikler anatomi kalıbı gibi (Selin) | 35 | [Aç](https://app.tasvir.ai/c/05dea591c4f79b48c17979feeaa13562e018201524cc4a1f1364906e44c5fe04/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Problemler (Yaş, İşçi, Hız, Yüzde) | Maç ve antrenman senaryoları (Mert) | 37 | [Aç](https://app.tasvir.ai/c/db8e95629c8f1c3d683201b39824c3323d3c4e2b7d96c34368b73b9d4e5a8185/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Kümeler ve Mantık | Playlist'ler ve festival katılımcıları (Derya) | 36 | [Aç](https://app.tasvir.ai/c/24d51611ef668a65d53e40d8a29f40e84e9851a30973548eee72c3ad135e7602/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Fonksiyonlar | Girdi item, çıktı hasar (Ali) | 34 | [Aç](https://app.tasvir.ai/c/e0636107fbf78b5384ffa5c5fa8f7070b1cec526d0c7cf0509af9c13912b23cf/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Permütasyon, Kombinasyon ve Olasılık | Kombin sayısı hesabı (Merve) | 34 | [Aç](https://app.tasvir.ai/c/7473d11c264184d7e609819bb826dcc08c8da22d22eed3b4eed7beceac339da1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Veri ve İstatistik | ELO puanı ve turnuva istatistikleri (Burak) | 32 | [Aç](https://app.tasvir.ai/c/29abd94cb7e3186ea3e3e6339e7c52f249b8619f25dd2791d84e4e6d2a1e2c36/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
 
 <details>
 <summary><b>Bu dersin 12 isteminin tamamı</b></summary>
@@ -253,20 +253,20 @@ turnuva istatistikleriyle anlat
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd" width="240" alt="TYT Biyoloji Hücre ve Madde Geçişleri"/></a><br/><strong>Hücre</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>Kalıtım</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208" width="240" alt="TYT Biyoloji Ekosistem Ekolojisi"/></a><br/><strong>Ekosistem</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-tyt-biyoloji-hucre-ve-madde-gecisleri"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd" width="240" alt="TYT Biyoloji Hücre ve Madde Geçişleri"/></a><br/><strong>Hücre</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-tyt-biyoloji-kalitim"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b" width="240" alt="TYT Biyoloji Kalıtım"/></a><br/><strong>Kalıtım</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-tyt-biyoloji-ekosistem-ekolojisi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208" width="240" alt="TYT Biyoloji Ekosistem Ekolojisi"/></a><br/><strong>Ekosistem</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Canlıların Temel Bileşenleri | Kedi beslenmesindeki protein ve yağ (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/20e05113385eb23f40914d6731a5df7b4b2cac0fc5c7e75d2a597493d245a036/1) |
-| Hücre ve Madde Geçişleri | Hücre bir oyun üssü, organeller bina (Emre) | 35 | [Aç](https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1) |
-| Canlılar Dünyası ve Sınıflandırma | Kampta görülen canlılar (Derya) | 37 | [Aç](https://app.tasvir.ai/c/664c07ad6f49ced3458f9fff50b4138462602e4e47e83494f3e65ed717aa7258/1) |
-| Hücre Bölünmeleri ve Üreme | Kas gelişimi ve hücre yenilenmesi (Mert) | 39 | [Aç](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1) |
-| Kalıtım | DNA suç mahallindeki delil gibi (Selin) | 37 | [Aç](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1) |
-| Ekosistem Ekolojisi | Dünya uzaydaki tek ekosistemimiz (Ali) | 41 | [Aç](https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1) |
+| Canlıların Temel Bileşenleri | Kedi beslenmesindeki protein ve yağ (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/20e05113385eb23f40914d6731a5df7b4b2cac0fc5c7e75d2a597493d245a036/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Hücre ve Madde Geçişleri | Hücre bir oyun üssü, organeller bina (Emre) | 35 | [Aç](https://app.tasvir.ai/c/a4de4bca45bbf22b4d71c2c74d8c57afe4cc708c9b6d2334aad41295d42361cd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Canlılar Dünyası ve Sınıflandırma | Kampta görülen canlılar (Derya) | 37 | [Aç](https://app.tasvir.ai/c/664c07ad6f49ced3458f9fff50b4138462602e4e47e83494f3e65ed717aa7258/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Hücre Bölünmeleri ve Üreme | Kas gelişimi ve hücre yenilenmesi (Mert) | 39 | [Aç](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Kalıtım | DNA suç mahallindeki delil gibi (Selin) | 37 | [Aç](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Ekosistem Ekolojisi | Dünya uzaydaki tek ekosistemimiz (Ali) | 41 | [Aç](https://app.tasvir.ai/c/756fd9b0b2eed7f19be0287b2abfb32bb0c1616591067a9d1d88f3a2cf01e208/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
 
 <details>
 <summary><b>Bu dersin 6 isteminin tamamı</b></summary>
@@ -297,22 +297,22 @@ ekosistemimiz' açısından anlat, kancalar olsun
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4" width="240" alt="TYT Fizik Hareket ve Kuvvet"/></a><br/><strong>Hareket ve Kuvvet</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5" width="240" alt="TYT Fizik Elektrik"/></a><br/><strong>Elektrik</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2" width="240" alt="TYT Fizik Dalgalar ve Optik"/></a><br/><strong>Dalgalar ve Optik</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-tyt-fizik-hareket-ve-kuvvet"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4" width="240" alt="TYT Fizik Hareket ve Kuvvet"/></a><br/><strong>Hareket ve Kuvvet</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-tyt-fizik-elektrik"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5" width="240" alt="TYT Fizik Elektrik"/></a><br/><strong>Elektrik</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-tyt-fizik-dalgalar-ve-optik"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2" width="240" alt="TYT Fizik Dalgalar ve Optik"/></a><br/><strong>Dalgalar ve Optik</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Fizik Bilimine Giriş | Telefon kamerası ve ring ışığı (Merve) | 21 | [Aç](https://app.tasvir.ai/c/2a769b0588c91df81b957593d943102b7d789f85e89f1c5232dfa1f37ecbc1a8/1) |
-| Madde ve Özellikleri | Özkütle, malzeme seçimi stratejisi (Burak) | 33 | [Aç](https://app.tasvir.ai/c/5f6fe2aff3001cf3e0af179d908c6ef7be77687522711ca1bcaffdb2a2e0b362/1) |
-| Hareket ve Kuvvet | F1 araçlarıyla hız ve ivme (Kaan) | 36 | [Aç](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1) |
-| İş, Güç ve Enerji | Antrenman ve kalori (Mert) | 33 | [Aç](https://app.tasvir.ai/c/0507451a759f339329fc812a93aacb8d3aeb32c9d3f2d5fe53c12db64b1ec7cc/1) |
-| Isı ve Sıcaklık | Kedinin sıcak yer sevmesi (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/b3a6031846fdfcad551af9c89184152b98e633f449432215d3219a4ba1129088/1) |
-| Elektrostatik ve Elektrik | Devreler redstone mantığıyla (Emre) | 37 | [Aç](https://app.tasvir.ai/c/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5/1) |
-| Basınç ve Kaldırma Kuvveti | Tansiyon ve kan basıncı (Selin) | 36 | [Aç](https://app.tasvir.ai/c/6c06cd78b878a3d523ef717fe35dfe9220b4e04556bb151593e493e3f49324d8/1) |
-| Dalgalar ve Optik | Yıldız ışığı ve teleskoplar (Ali) | 36 | [Aç](https://app.tasvir.ai/c/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2/1) |
+| Fizik Bilimine Giriş | Telefon kamerası ve ring ışığı (Merve) | 21 | [Aç](https://app.tasvir.ai/c/2a769b0588c91df81b957593d943102b7d789f85e89f1c5232dfa1f37ecbc1a8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Madde ve Özellikleri | Özkütle, malzeme seçimi stratejisi (Burak) | 33 | [Aç](https://app.tasvir.ai/c/5f6fe2aff3001cf3e0af179d908c6ef7be77687522711ca1bcaffdb2a2e0b362/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Hareket ve Kuvvet | F1 araçlarıyla hız ve ivme (Kaan) | 36 | [Aç](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| İş, Güç ve Enerji | Antrenman ve kalori (Mert) | 33 | [Aç](https://app.tasvir.ai/c/0507451a759f339329fc812a93aacb8d3aeb32c9d3f2d5fe53c12db64b1ec7cc/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Isı ve Sıcaklık | Kedinin sıcak yer sevmesi (Zeynep) | 37 | [Aç](https://app.tasvir.ai/c/b3a6031846fdfcad551af9c89184152b98e633f449432215d3219a4ba1129088/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Elektrostatik ve Elektrik | Devreler redstone mantığıyla (Emre) | 37 | [Aç](https://app.tasvir.ai/c/f1c5ad07d2b07418eb3825e4c2c2bdf7e261441b92e49ed29090f076697f94b5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Basınç ve Kaldırma Kuvveti | Tansiyon ve kan basıncı (Selin) | 36 | [Aç](https://app.tasvir.ai/c/6c06cd78b878a3d523ef717fe35dfe9220b4e04556bb151593e493e3f49324d8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Dalgalar ve Optik | Yıldız ışığı ve teleskoplar (Ali) | 36 | [Aç](https://app.tasvir.ai/c/0eb181b737f9fa17b2bcfb13f81bf4c2d1565c5c4b755cc79f8f846f263d49b2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
 
 <details>
 <summary><b>Bu dersin 8 isteminin tamamı</b></summary>
@@ -350,21 +350,21 @@ tyt dalgalar ve optik konu anlatımı, Ali 17 uzay sever, ışığı uzaydan gel
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7" width="240" alt="TYT Kimya Atom ve Periyodik Sistem"/></a><br/><strong>Atom ve Periyodik Sistem</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a" width="240" alt="TYT Kimya Maddenin Halleri"/></a><br/><strong>Maddenin Hâlleri</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb" width="240" alt="TYT Kimya Asitler Bazlar ve Tuzlar"/></a><br/><strong>Asitler, Bazlar ve Tuzlar</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-tyt-kimya-atom-ve-periyodik-sistem"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7" width="240" alt="TYT Kimya Atom ve Periyodik Sistem"/></a><br/><strong>Atom ve Periyodik Sistem</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-tyt-kimya-maddenin-halleri"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a" width="240" alt="TYT Kimya Maddenin Halleri"/></a><br/><strong>Maddenin Hâlleri</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-tyt-kimya-asitler-bazlar-ve-tuzlar"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb" width="240" alt="TYT Kimya Asitler Bazlar ve Tuzlar"/></a><br/><strong>Asitler, Bazlar ve Tuzlar</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Kimya Bilimi | Kamp ateşi ve gitar telleri (Derya) | 34 | [Aç](https://app.tasvir.ai/c/2d9d8361f6f83847d19b2a9a1fd2804603489d7547eb85f09958a4e98e675adb/1) |
-| Atom ve Periyodik Sistem | Elementler şampiyon rolleri gibi (Ali) | 35 | [Aç](https://app.tasvir.ai/c/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7/1) |
-| Kimyasal Türler Arası Etkileşimler | Bağlar karakter ilişkileri gibi (Elif) | 35 | [Aç](https://app.tasvir.ai/c/bf517267001beb528611c504488162dc6e3fbf484ea776488351a278538b6f22/1) |
-| Maddenin Hâlleri | Terleme ve buharlaşmayla soğuma (Mert) | 33 | [Aç](https://app.tasvir.ai/c/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a/1) |
-| Temel Kanunlar ve Mol Hesabı | Sayı sistemleri ve büyük sayılar (Emre) | 38 | [Aç](https://app.tasvir.ai/c/2324eaf8b9755edf2bf3596435ae11433c2d0a66bdc1251b8e06c72fbcd6ec88/1) |
-| Karışımlar ve Ayırma Yöntemleri | Kozmetik ürün formülleri (Merve) | 35 | [Aç](https://app.tasvir.ai/c/69ad5e7b6d93269ff4b7e0656d896b06161ba3e9d6301aefccd4a8f1ad5edc74/1) |
-| Asitler, Bazlar ve Tuzlar | Mide asidi ve ilaçlar (Selin) | 36 | [Aç](https://app.tasvir.ai/c/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb/1) |
+| Kimya Bilimi | Kamp ateşi ve gitar telleri (Derya) | 34 | [Aç](https://app.tasvir.ai/c/2d9d8361f6f83847d19b2a9a1fd2804603489d7547eb85f09958a4e98e675adb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Atom ve Periyodik Sistem | Elementler şampiyon rolleri gibi (Ali) | 35 | [Aç](https://app.tasvir.ai/c/3b9c35a6b2ea2c8fbd118ab4e5285616e626448865ca5121314b8a09df27ebd7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Kimyasal Türler Arası Etkileşimler | Bağlar karakter ilişkileri gibi (Elif) | 35 | [Aç](https://app.tasvir.ai/c/bf517267001beb528611c504488162dc6e3fbf484ea776488351a278538b6f22/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Maddenin Hâlleri | Terleme ve buharlaşmayla soğuma (Mert) | 33 | [Aç](https://app.tasvir.ai/c/4e1917938e413ef3d514fdf616e553b8402f58af5ad7e334634ac423d25dcc6a/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Temel Kanunlar ve Mol Hesabı | Sayı sistemleri ve büyük sayılar (Emre) | 38 | [Aç](https://app.tasvir.ai/c/2324eaf8b9755edf2bf3596435ae11433c2d0a66bdc1251b8e06c72fbcd6ec88/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Karışımlar ve Ayırma Yöntemleri | Kozmetik ürün formülleri (Merve) | 35 | [Aç](https://app.tasvir.ai/c/69ad5e7b6d93269ff4b7e0656d896b06161ba3e9d6301aefccd4a8f1ad5edc74/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Asitler, Bazlar ve Tuzlar | Mide asidi ve ilaçlar (Selin) | 36 | [Aç](https://app.tasvir.ai/c/8e443781100f8df86f778c8d169d43e7a73ecf926a691c255066d3d868afc8bb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
 
 <details>
 <summary><b>Bu dersin 7 isteminin tamamı</b></summary>
@@ -398,21 +398,21 @@ tyt asit baz tuz konu anlatımı, Selin 18 tıp hayalli, mide asidi ve ilaçlar
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9" width="240" alt="TYT Tarih İlk Çağ Medeniyetleri"/></a><br/><strong>İlk Çağ Medeniyetleri</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f" width="240" alt="TYT Tarih Osmanlı Kuruluş ve Yükselme"/></a><br/><strong>Osmanlı</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c" width="240" alt="TYT Tarih Milli Mücadele ve Atatürk İlkeleri"/></a><br/><strong>Milli Mücadele</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-tyt-tarih-ilk-cag-medeniyetleri"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9" width="240" alt="TYT Tarih İlk Çağ Medeniyetleri"/></a><br/><strong>İlk Çağ Medeniyetleri</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-tyt-tarih-osmanli-kurulus-ve-yukselme"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f" width="240" alt="TYT Tarih Osmanlı Kuruluş ve Yükselme"/></a><br/><strong>Osmanlı</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-tyt-tarih-milli-mucadele-ve-ataturk-ilke"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c" width="240" alt="TYT Tarih Milli Mücadele ve Atatürk İlkeleri"/></a><br/><strong>Milli Mücadele</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Tarih Bilimine Giriş | Tarihçi geçmişin belgeselcisi (Merve) | 36 | [Aç](https://app.tasvir.ai/c/bc175ef888d3bd8820e5c7e5ca3b528b559726a6bc80d83f83aa86999d113aa1/1) |
-| İlk Çağ Medeniyetleri | Medeniyetler strateji oyunu uygarlıkları gibi (Burak) | 38 | [Aç](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1) |
-| İslamiyet Öncesi Türk Tarihi | Atlı göçebe kültürü hız ve hareket üzerinden (Kaan) | 38 | [Aç](https://app.tasvir.ai/c/d9853838f7b11f38c2b132448541fa41d9040ce3243762ab25cad0bc2c1dfc65/1) |
-| İslam Tarihi ve Türk-İslam Devletleri | Dönemin bilim hayatı epik hikâye gibi (Elif) | 38 | [Aç](https://app.tasvir.ai/c/ca3c3c8d4a56a55e60f15f810549f2de80ac1872b601eca7fd775e7c2d35a8d9/1) |
-| Osmanlı Kuruluş ve Yükselme | Fetihler satranç hamleleri gibi (Burak) | 35 | [Aç](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1) |
-| Osmanlı Değişim ve Dağılma | Bir şarkının kırılma noktaları gibi (Derya) | 36 | [Aç](https://app.tasvir.ai/c/b696183f2344a4eb89d002e7cd180ef0d170d590cabf9da0de4c0675e9dd26f8/1) |
-| Milli Mücadele ve Atatürk İlkeleri | Takım ruhu ve geri dönüş maçları (Ali) | 36 | [Aç](https://app.tasvir.ai/c/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c/1) |
+| Tarih Bilimine Giriş | Tarihçi geçmişin belgeselcisi (Merve) | 36 | [Aç](https://app.tasvir.ai/c/bc175ef888d3bd8820e5c7e5ca3b528b559726a6bc80d83f83aa86999d113aa1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| İlk Çağ Medeniyetleri | Medeniyetler strateji oyunu uygarlıkları gibi (Burak) | 38 | [Aç](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| İslamiyet Öncesi Türk Tarihi | Atlı göçebe kültürü hız ve hareket üzerinden (Kaan) | 38 | [Aç](https://app.tasvir.ai/c/d9853838f7b11f38c2b132448541fa41d9040ce3243762ab25cad0bc2c1dfc65/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| İslam Tarihi ve Türk-İslam Devletleri | Dönemin bilim hayatı epik hikâye gibi (Elif) | 38 | [Aç](https://app.tasvir.ai/c/ca3c3c8d4a56a55e60f15f810549f2de80ac1872b601eca7fd775e7c2d35a8d9/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| Osmanlı Kuruluş ve Yükselme | Fetihler satranç hamleleri gibi (Burak) | 35 | [Aç](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| Osmanlı Değişim ve Dağılma | Bir şarkının kırılma noktaları gibi (Derya) | 36 | [Aç](https://app.tasvir.ai/c/b696183f2344a4eb89d002e7cd180ef0d170d590cabf9da0de4c0675e9dd26f8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
+| Milli Mücadele ve Atatürk İlkeleri | Takım ruhu ve geri dönüş maçları (Ali) | 36 | [Aç](https://app.tasvir.ai/c/60e4085d355a57c158ce5882853ce078bef88a1fc78645650c1f379a66867f1c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-ac) |
 
 <details>
 <summary><b>Bu dersin 7 isteminin tamamı</b></summary>
@@ -446,17 +446,17 @@ mücadele ruhunu takım ruhu ve geri dönüş maçları gibi anlat, heyecanlı k
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd" width="240" alt="TYT Coğrafya Harita Bilgisi"/></a><br/><strong>Harita Bilgisi</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="240" alt="TYT Coğrafya Dünya'nın Hareketleri ve İklim"/></a><br/><strong>Dünya ve İklim</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0" width="240" alt="TYT Coğrafya Yer Şekilleri"/></a><br/><strong>Yer Şekilleri</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-tyt-cografya-harita-bilgisi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd" width="240" alt="TYT Coğrafya Harita Bilgisi"/></a><br/><strong>Harita Bilgisi</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-tyt-cografya-dunya-nin-hareketleri-ve-ik"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="240" alt="TYT Coğrafya Dünya'nın Hareketleri ve İklim"/></a><br/><strong>Dünya ve İklim</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-tyt-cografya-yer-sekilleri"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0" width="240" alt="TYT Coğrafya Yer Şekilleri"/></a><br/><strong>Yer Şekilleri</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Doğa, İnsan ve Harita Bilgisi | Ölçek ve koordinat oyun haritası mantığıyla (Emre) | 37 | [Aç](https://app.tasvir.ai/c/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd/1) |
-| Dünya'nın Hareketleri ve İklim | Astronot gözünden Dünya (Ali) | 39 | [Aç](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) |
-| Yer Şekilleri, İç ve Dış Kuvvetler | Kamp yapılan vadiler ve dağlar (Derya) | 35 | [Aç](https://app.tasvir.ai/c/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0/1) |
+| Doğa, İnsan ve Harita Bilgisi | Ölçek ve koordinat oyun haritası mantığıyla (Emre) | 37 | [Aç](https://app.tasvir.ai/c/4104f82a6d4fcfaa7e25a5429f6fd008343e4785b16f08e6bbd0b8015afa74dd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-ac) |
+| Dünya'nın Hareketleri ve İklim | Astronot gözünden Dünya (Ali) | 39 | [Aç](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-ac) |
+| Yer Şekilleri, İç ve Dış Kuvvetler | Kamp yapılan vadiler ve dağlar (Derya) | 35 | [Aç](https://app.tasvir.ai/c/2dec7bb147201e7abcfe9f101d74a0b5985202ed6c52e85841d7ede3e6c4e1e0/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-ac) |
 
 <details>
 <summary><b>Bu dersin 3 isteminin tamamı</b></summary>
@@ -482,25 +482,25 @@ dağlar üzerinden anlat
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e" width="240" alt="AYT Matematik İkinci Dereceden Denklemler ve Parabol"/></a><br/><strong>Parabol</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862" width="240" alt="AYT Matematik Trigonometri"/></a><br/><strong>Trigonometri</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="240" alt="AYT Matematik Türev"/></a><br/><strong>Türev</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ayt-matematik-ikinci-dereceden-denklemle"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e" width="240" alt="AYT Matematik İkinci Dereceden Denklemler ve Parabol"/></a><br/><strong>Parabol</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ayt-matematik-trigonometri"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862" width="240" alt="AYT Matematik Trigonometri"/></a><br/><strong>Trigonometri</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ayt-matematik-turev"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="240" alt="AYT Matematik Türev"/></a><br/><strong>Türev</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Fonksiyonlar | Programlamadaki function kavramı (Emre) | 26 | [Aç](https://app.tasvir.ai/c/7c7a623c8ce5b5ad9ab24600840a692ab21e0165c2b5032ce166d28bd2c291d1/1) |
-| Polinomlar | Manga çizim panelleri gibi adım adım (Zeynep) | 54 | [Aç](https://app.tasvir.ai/c/9696cb632fc87f74b7d24c75da32efd739b01041ee848e8ec3bba44f0a62e620/1) |
-| İkinci Dereceden Denklemler ve Parabol | Şut yayı, tepe noktası şutun zirvesi (Mert) | 25 | [Aç](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1) |
-| Trigonometri | Viraj geometrisi, birim çember pist (Kaan) | 33 | [Aç](https://app.tasvir.ai/c/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862/1) |
-| Logaritma | Viral büyüme ve takipçi katlanması (Merve) | 32 | [Aç](https://app.tasvir.ai/c/16742f7416bd125e93aa5bf12027f44ef4a1526f7a6039a6c4217d977a4d7d9f/1) |
-| Diziler | Nota aralıkları ve ritim kalıpları (Derya) | 31 | [Aç](https://app.tasvir.ai/c/3aaacb2ce6932894eef1a3d28fc72ae82fe83834a03cbad07ab2b15e604f0005/1) |
-| Limit ve Süreklilik | Uzay aracının hedefe sonsuz yaklaşması (Ali) | 34 | [Aç](https://app.tasvir.ai/c/4982599459b57cbea7b8c04f330536831ae9851b5d6a4445b7a3ff0f203d8c43/1) |
-| Türev | Anlık hız ve nabız değişimi (Selin) | 35 | [Aç](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1) |
-| İntegral | Alanı bloklarla doldurma, Riemann (Emre) | 35 | [Aç](https://app.tasvir.ai/c/2532b8aca47c61b988e3a904e9057778745a9eb3c384d7f88112ae0e4997bebb/1) |
-| Analitik Geometri | Koordinatlar satranç tahtası kareleri (Burak) | 34 | [Aç](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1) |
-| Olasılık | Koşullu olasılık, seçmen şapkası (Elif) | 36 | [Aç](https://app.tasvir.ai/c/864b72e50437f17636159522841de30be37f70d479657c1166e028f08788e24d/1) |
+| Fonksiyonlar | Programlamadaki function kavramı (Emre) | 26 | [Aç](https://app.tasvir.ai/c/7c7a623c8ce5b5ad9ab24600840a692ab21e0165c2b5032ce166d28bd2c291d1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Polinomlar | Manga çizim panelleri gibi adım adım (Zeynep) | 54 | [Aç](https://app.tasvir.ai/c/9696cb632fc87f74b7d24c75da32efd739b01041ee848e8ec3bba44f0a62e620/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| İkinci Dereceden Denklemler ve Parabol | Şut yayı, tepe noktası şutun zirvesi (Mert) | 25 | [Aç](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Trigonometri | Viraj geometrisi, birim çember pist (Kaan) | 33 | [Aç](https://app.tasvir.ai/c/990f2bc4a6949c60167115ea09c6da2a3d4adc3203a38bd097b76d067feb5862/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Logaritma | Viral büyüme ve takipçi katlanması (Merve) | 32 | [Aç](https://app.tasvir.ai/c/16742f7416bd125e93aa5bf12027f44ef4a1526f7a6039a6c4217d977a4d7d9f/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Diziler | Nota aralıkları ve ritim kalıpları (Derya) | 31 | [Aç](https://app.tasvir.ai/c/3aaacb2ce6932894eef1a3d28fc72ae82fe83834a03cbad07ab2b15e604f0005/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Limit ve Süreklilik | Uzay aracının hedefe sonsuz yaklaşması (Ali) | 34 | [Aç](https://app.tasvir.ai/c/4982599459b57cbea7b8c04f330536831ae9851b5d6a4445b7a3ff0f203d8c43/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Türev | Anlık hız ve nabız değişimi (Selin) | 35 | [Aç](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| İntegral | Alanı bloklarla doldurma, Riemann (Emre) | 35 | [Aç](https://app.tasvir.ai/c/2532b8aca47c61b988e3a904e9057778745a9eb3c384d7f88112ae0e4997bebb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Analitik Geometri | Koordinatlar satranç tahtası kareleri (Burak) | 34 | [Aç](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
+| Olasılık | Koşullu olasılık, seçmen şapkası (Elif) | 36 | [Aç](https://app.tasvir.ai/c/864b72e50437f17636159522841de30be37f70d479657c1166e028f08788e24d/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-ac) |
 
 <details>
 <summary><b>Bu dersin 11 isteminin tamamı</b></summary>
@@ -548,22 +548,22 @@ seçmen şapkasının bina seçme olasılığıyla anlat, eğlenceli olsun çöz
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973" width="240" alt="AYT Fizik Çembersel Hareket"/></a><br/><strong>Çembersel Hareket</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1" width="240" alt="AYT Fizik Basit Harmonik Hareket"/></a><br/><strong>Harmonik Hareket</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5" width="240" alt="AYT Fizik Modern Fizik"/></a><br/><strong>Modern Fizik</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ayt-fizik-cembersel-hareket"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973" width="240" alt="AYT Fizik Çembersel Hareket"/></a><br/><strong>Çembersel Hareket</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ayt-fizik-basit-harmonik-hareket"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1" width="240" alt="AYT Fizik Basit Harmonik Hareket"/></a><br/><strong>Harmonik Hareket</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ayt-fizik-modern-fizik"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5" width="240" alt="AYT Fizik Modern Fizik"/></a><br/><strong>Modern Fizik</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Kuvvet ve Hareket | Atış hareketi roket fırlatma gibi (Ali) | 31 | [Aç](https://app.tasvir.ai/c/6a628b8760d3b0a17bc8e7a032600c9132dc2e9eb6303666cc3a7a82883123f2/1) |
-| Elektrik ve Manyetizma | Manyetik alan elektronik cihazlardan (Emre) | 31 | [Aç](https://app.tasvir.ai/c/49e30cada5d8ba456fcf577ebeb86ac435b47caf3e3287499e43cb8525590077/1) |
-| Çembersel Hareket | Merkezcil kuvvet, viraj alan F1 aracı (Kaan) | 26 | [Aç](https://app.tasvir.ai/c/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973/1) |
-| Dönme, Denge ve Açısal Momentum | Topspin ve dönerek smaç (Mert) | 31 | [Aç](https://app.tasvir.ai/c/4b43c78beb6d07ff38f0d22e628125f60465ce43cc3983fa5c76f64e7415d48e/1) |
-| Basit Harmonik Hareket | Titreşen gitar teli ve akort (Derya) | 25 | [Aç](https://app.tasvir.ai/c/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1/1) |
-| Atom Fiziği ve Radyoaktivite | Röntgen ve kanser tedavisi (Selin) | 28 | [Aç](https://app.tasvir.ai/c/058eab9ba36738ec5783d6401c345cb31f1bab7e3b3ef7b5ece7263a624c5cbd/1) |
-| Modern Fizik | Görelilik ve ikizler paradoksu (Ali) | 28 | [Aç](https://app.tasvir.ai/c/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5/1) |
-| Modern Fiziğin Teknolojideki Uygulamaları | Telefon kamerası, LED, yarı iletken (Merve) | 27 | [Aç](https://app.tasvir.ai/c/a885871a77fa56d47f25c83b9deb2491c40e36b072032878a21cd0bc460e1750/1) |
+| Kuvvet ve Hareket | Atış hareketi roket fırlatma gibi (Ali) | 31 | [Aç](https://app.tasvir.ai/c/6a628b8760d3b0a17bc8e7a032600c9132dc2e9eb6303666cc3a7a82883123f2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Elektrik ve Manyetizma | Manyetik alan elektronik cihazlardan (Emre) | 31 | [Aç](https://app.tasvir.ai/c/49e30cada5d8ba456fcf577ebeb86ac435b47caf3e3287499e43cb8525590077/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Çembersel Hareket | Merkezcil kuvvet, viraj alan F1 aracı (Kaan) | 26 | [Aç](https://app.tasvir.ai/c/b7b3b3e4f9744c9f09fa9c4ce47cae4f098225cffcafc494faab3febbad8b973/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Dönme, Denge ve Açısal Momentum | Topspin ve dönerek smaç (Mert) | 31 | [Aç](https://app.tasvir.ai/c/4b43c78beb6d07ff38f0d22e628125f60465ce43cc3983fa5c76f64e7415d48e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Basit Harmonik Hareket | Titreşen gitar teli ve akort (Derya) | 25 | [Aç](https://app.tasvir.ai/c/58c65272de36be3ccd063dfe49cefa4b9ef94f24796969f220a6d083764c9ee1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Atom Fiziği ve Radyoaktivite | Röntgen ve kanser tedavisi (Selin) | 28 | [Aç](https://app.tasvir.ai/c/058eab9ba36738ec5783d6401c345cb31f1bab7e3b3ef7b5ece7263a624c5cbd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Modern Fizik | Görelilik ve ikizler paradoksu (Ali) | 28 | [Aç](https://app.tasvir.ai/c/b05512239d9eb8d050b7b91648a6824fb6e590168c0900feb20ab17a65c1fca5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
+| Modern Fiziğin Teknolojideki Uygulamaları | Telefon kamerası, LED, yarı iletken (Merve) | 27 | [Aç](https://app.tasvir.ai/c/a885871a77fa56d47f25c83b9deb2491c40e36b072032878a21cd0bc460e1750/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-ac) |
 
 <details>
 <summary><b>Bu dersin 8 isteminin tamamı</b></summary>
@@ -607,23 +607,23 @@ eğlenceli olsun çözümlü sorularla pekiştir
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704" width="240" alt="AYT Kimya Gazlar"/></a><br/><strong>Gazlar</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d" width="240" alt="AYT Kimya Elektrokimya"/></a><br/><strong>Elektrokimya</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008" width="240" alt="AYT Kimya Organik Kimya"/></a><br/><strong>Organik Kimya</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ayt-kimya-gazlar"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704" width="240" alt="AYT Kimya Gazlar"/></a><br/><strong>Gazlar</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ayt-kimya-elektrokimya"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d" width="240" alt="AYT Kimya Elektrokimya"/></a><br/><strong>Elektrokimya</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ayt-kimya-organik-kimya"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008" width="240" alt="AYT Kimya Organik Kimya"/></a><br/><strong>Organik Kimya</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Gazlar | Motor silindiri ve turbo basıncı (Kaan) | 28 | [Aç](https://app.tasvir.ai/c/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704/1) |
-| Sıvı Çözeltiler ve Çözünürlük | Serum ve derişim, hastane örnekleri (Selin) | 36 | [Aç](https://app.tasvir.ai/c/624a55d1c971cfc57c330251cee4632045ab78b3f17847599bc8439bd6267456/1) |
-| Kimyasal Tepkimelerde Enerji | Entalpi, vücudun enerji yakması (Mert) | 35 | [Aç](https://app.tasvir.ai/c/2ebf8a8b8aeb3a0d81c34c6b84af4ca980e55dd3a417fe688e3c8976a6fdc6c2/1) |
-| Kimyasal Tepkimelerde Hız | Hızı etkileyen faktörler buff gibi (Ali) | 30 | [Aç](https://app.tasvir.ai/c/a12b99888897c9c20cd22b1f8b26f925e889590770f3fd673bf3b857ec44663e/1) |
-| Kimyasal Denge | Karşılıklı hamle dengesi, Le Chatelier (Burak) | 30 | [Aç](https://app.tasvir.ai/c/ff42c2375b552aced321bf394fce463c710c0e67412187939009717388d2a2b8/1) |
-| Asit-Baz Dengesi | pH, şampuan ve kedi maması (Zeynep) | 31 | [Aç](https://app.tasvir.ai/c/838cf2e3921e49f5d2bef8111ebf0f3a3d4b3d203a43226089b5060f45d15716/1) |
-| Elektrokimya | Pil, telefon bataryası ve şarj döngüsü (Emre) | 31 | [Aç](https://app.tasvir.ai/c/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d/1) |
-| Karbon Kimyasına Giriş | Elmastan gitar teline karbon (Derya) | 32 | [Aç](https://app.tasvir.ai/c/41ef9e9667a70a1161065498460d4f3bbcd9b62fb640926dd369072f8e1f0c2e/1) |
-| Organik Kimya | Fonksiyonel gruplar parfüm ve kozmetikte (Merve) | 31 | [Aç](https://app.tasvir.ai/c/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008/1) |
+| Gazlar | Motor silindiri ve turbo basıncı (Kaan) | 28 | [Aç](https://app.tasvir.ai/c/7ffed487d78f4d870d4b272aca8c8a042e08df58dd506c351cc9928e3cde2704/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Sıvı Çözeltiler ve Çözünürlük | Serum ve derişim, hastane örnekleri (Selin) | 36 | [Aç](https://app.tasvir.ai/c/624a55d1c971cfc57c330251cee4632045ab78b3f17847599bc8439bd6267456/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Kimyasal Tepkimelerde Enerji | Entalpi, vücudun enerji yakması (Mert) | 35 | [Aç](https://app.tasvir.ai/c/2ebf8a8b8aeb3a0d81c34c6b84af4ca980e55dd3a417fe688e3c8976a6fdc6c2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Kimyasal Tepkimelerde Hız | Hızı etkileyen faktörler buff gibi (Ali) | 30 | [Aç](https://app.tasvir.ai/c/a12b99888897c9c20cd22b1f8b26f925e889590770f3fd673bf3b857ec44663e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Kimyasal Denge | Karşılıklı hamle dengesi, Le Chatelier (Burak) | 30 | [Aç](https://app.tasvir.ai/c/ff42c2375b552aced321bf394fce463c710c0e67412187939009717388d2a2b8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Asit-Baz Dengesi | pH, şampuan ve kedi maması (Zeynep) | 31 | [Aç](https://app.tasvir.ai/c/838cf2e3921e49f5d2bef8111ebf0f3a3d4b3d203a43226089b5060f45d15716/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Elektrokimya | Pil, telefon bataryası ve şarj döngüsü (Emre) | 31 | [Aç](https://app.tasvir.ai/c/b881309482dde8074688b40d50f3976d0468332b83af65dcd75567cf472eb23d/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Karbon Kimyasına Giriş | Elmastan gitar teline karbon (Derya) | 32 | [Aç](https://app.tasvir.ai/c/41ef9e9667a70a1161065498460d4f3bbcd9b62fb640926dd369072f8e1f0c2e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
+| Organik Kimya | Fonksiyonel gruplar parfüm ve kozmetikte (Merve) | 31 | [Aç](https://app.tasvir.ai/c/2c8b497a8e17197907d540984a99b0a97336abdf1bba9f22bc418207f34ff008/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-ac) |
 
 <details>
 <summary><b>Bu dersin 9 isteminin tamamı</b></summary>
@@ -664,20 +664,20 @@ parfüm ve kozmetik içerikleriyle anlat, eğlenceli kancalarla çözümlü soru
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412" width="240" alt="AYT Biyoloji İnsan Fizyolojisi"/></a><br/><strong>İnsan Fizyolojisi</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c" width="240" alt="AYT Biyoloji Genden Proteine"/></a><br/><strong>Genden Proteine</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf" width="240" alt="AYT Biyoloji Bitki Biyolojisi"/></a><br/><strong>Bitki Biyolojisi</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ayt-biyoloji-insan-fizyolojisi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412" width="240" alt="AYT Biyoloji İnsan Fizyolojisi"/></a><br/><strong>İnsan Fizyolojisi</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ayt-biyoloji-genden-proteine"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c" width="240" alt="AYT Biyoloji Genden Proteine"/></a><br/><strong>Genden Proteine</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ayt-biyoloji-bitki-biyolojisi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf" width="240" alt="AYT Biyoloji Bitki Biyolojisi"/></a><br/><strong>Bitki Biyolojisi</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| İnsan Fizyolojisi | Koşu sırasında vücutta olanlar (Selin) | 33 | [Aç](https://app.tasvir.ai/c/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412/1) |
-| Komünite ve Popülasyon Ekolojisi | Strateji oyununda kaynak-nüfus dengesi (Burak) | 39 | [Aç](https://app.tasvir.ai/c/7aaa4ef4c0df3350813276a2372f223e00d1e4941bd5d38b4335d6390f2d1c86/1) |
-| Genden Proteine | DNA kaynak kod, mutasyon bug (Emre) | 43 | [Aç](https://app.tasvir.ai/c/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c/1) |
-| Fotosentez ve Solunum | ATP antrenman enerjisi olarak (Mert) | 39 | [Aç](https://app.tasvir.ai/c/477c45fa0f09e290a2dd713231268fb893cec569cdd63a460cbbabc3496cba09/1) |
-| Bitki Biyolojisi | Kampta görülen bitkilerle taşıma ve büyüme (Derya) | 59 | [Aç](https://app.tasvir.ai/c/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf/1) |
-| Canlılar ve Çevre | Doğal seçilim, kedi türlerinin evrimi (Zeynep) | 31 | [Aç](https://app.tasvir.ai/c/e5c9b9f801f1411229c0ff80cf3832ed03029855909c6c53d6c2e4bb65213ce2/1) |
+| İnsan Fizyolojisi | Koşu sırasında vücutta olanlar (Selin) | 33 | [Aç](https://app.tasvir.ai/c/dbafa0c424844795c1a0dd49216f675a3882af9062d481d78ff168f366af6412/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Komünite ve Popülasyon Ekolojisi | Strateji oyununda kaynak-nüfus dengesi (Burak) | 39 | [Aç](https://app.tasvir.ai/c/7aaa4ef4c0df3350813276a2372f223e00d1e4941bd5d38b4335d6390f2d1c86/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Genden Proteine | DNA kaynak kod, mutasyon bug (Emre) | 43 | [Aç](https://app.tasvir.ai/c/de4d923f365ef237c711f9cdb1945fd9dd9dac958a2b6024be4b588f0569aa5c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Fotosentez ve Solunum | ATP antrenman enerjisi olarak (Mert) | 39 | [Aç](https://app.tasvir.ai/c/477c45fa0f09e290a2dd713231268fb893cec569cdd63a460cbbabc3496cba09/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Bitki Biyolojisi | Kampta görülen bitkilerle taşıma ve büyüme (Derya) | 59 | [Aç](https://app.tasvir.ai/c/0c8e0e1acb16b84d7b8e2d4c16283282d5ba129adb32baf6d00e3f0a57cd85cf/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
+| Canlılar ve Çevre | Doğal seçilim, kedi türlerinin evrimi (Zeynep) | 31 | [Aç](https://app.tasvir.ai/c/e5c9b9f801f1411229c0ff80cf3832ed03029855909c6c53d6c2e4bb65213ce2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-ac) |
 
 <details>
 <summary><b>Bu dersin 6 isteminin tamamı</b></summary>
@@ -713,20 +713,20 @@ kedi türlerinin evrimi üzerinden anlat, merak ettir çözümlü sorular ile
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895" width="240" alt="TYT Geometri Açılar"/></a><br/><strong>Açılar</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8" width="240" alt="TYT Geometri Üçgenler"/></a><br/><strong>Üçgenler</strong></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf" width="240" alt="TYT Geometri Çokgenler ve Dörtgenler"/></a><br/><strong>Çokgenler</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-tyt-geometri-acilar"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895" width="240" alt="TYT Geometri Açılar"/></a><br/><strong>Açılar</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-tyt-geometri-ucgenler"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8" width="240" alt="TYT Geometri Üçgenler"/></a><br/><strong>Üçgenler</strong></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-tyt-geometri-cokgenler-ve-dortgenler"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf" width="240" alt="TYT Geometri Çokgenler ve Dörtgenler"/></a><br/><strong>Çokgenler</strong></td>
   </tr>
 </table>
 
 | Konu | Anlatım açısı | Sayfa | |
 |---|---|---:|---|
-| Doğruda ve Üçgende Açılar | Büyü asası hareketleri ve kale mimarisi (Elif) | 34 | [Aç](https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1) |
-| Üçgenler, Benzerlik ve Alan | Pist virajları ve araç geometrisi (Kaan) | 35 | [Aç](https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1) |
-| Çokgenler ve Dörtgenler | Blok yapıları ve yapı planları (Emre) | 35 | [Aç](https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1) |
-| Çember ve Daire | Gitar teknesi ve davul kasnağı (Derya) | 34 | [Aç](https://app.tasvir.ai/c/a4d87dc11577c02174930684551c3cfc48a413819dde9d811ef040e2d74e0914/1) |
-| Katı Cisimler | Basket topu ve saha ölçüleri (Mert) | 36 | [Aç](https://app.tasvir.ai/c/5df398e0f7d1b292d9b95d90193820d07e3220f6ecfd8813e49a21068dd26e3c/1) |
-| Analitik Geometri | Koşu rotası ve GPS (Selin) | 35 | [Aç](https://app.tasvir.ai/c/01f29f3cdb272e6ca2a9b5083d1e676dcb180fb4e22bbc8dd75d433193c418da/1) |
+| Doğruda ve Üçgende Açılar | Büyü asası hareketleri ve kale mimarisi (Elif) | 34 | [Aç](https://app.tasvir.ai/c/4b85c40f1ad2f7ca835b9b3178dbe0f9a874b986453eb15bac9bb320c12aa895/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
+| Üçgenler, Benzerlik ve Alan | Pist virajları ve araç geometrisi (Kaan) | 35 | [Aç](https://app.tasvir.ai/c/f57dd28dc31cbef57bfe584d5724af0a7689d9bcc99d39826c9b815c529edad8/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
+| Çokgenler ve Dörtgenler | Blok yapıları ve yapı planları (Emre) | 35 | [Aç](https://app.tasvir.ai/c/9e59df98b9f512da0b2800fd55e8533a521dadd295c818d259eaafc2532b95cf/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
+| Çember ve Daire | Gitar teknesi ve davul kasnağı (Derya) | 34 | [Aç](https://app.tasvir.ai/c/a4d87dc11577c02174930684551c3cfc48a413819dde9d811ef040e2d74e0914/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
+| Katı Cisimler | Basket topu ve saha ölçüleri (Mert) | 36 | [Aç](https://app.tasvir.ai/c/5df398e0f7d1b292d9b95d90193820d07e3220f6ecfd8813e49a21068dd26e3c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
+| Analitik Geometri | Koşu rotası ve GPS (Selin) | 35 | [Aç](https://app.tasvir.ai/c/01f29f3cdb272e6ca2a9b5083d1e676dcb180fb4e22bbc8dd75d433193c418da/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tyt-geometri-ac) |
 
 <details>
 <summary><b>Bu dersin 6 isteminin tamamı</b></summary>
@@ -761,92 +761,92 @@ Konu anlatımı bitince sıra ölçmeye geliyor: aynı sistem 44 test daha yazd�
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb" width="240" alt="Matematik Merve ile Sayma ve Olasılık Modası"/></a><br/><strong>Matematik · Merve ile Sayma ve Olasılık Modası</strong><br/><sub>5 sayfa · cevap anahtarı sonda</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918" width="240" alt="Fizik Çembersel Hareket F1 Sınavı"/></a><br/><strong>Fizik · Çembersel Hareket F1 Sınavı</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a" width="240" alt="Fizik Tıbbi Radyoaktivite ve Klinik Görüntüleme Sınavı"/></a><br/><strong>Fizik · Tıbbi Radyoaktivite ve Klinik Görüntüleme</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-matematik-merve-ile-sayma-ve-olasilik-mo"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb" width="240" alt="Matematik Merve ile Sayma ve Olasılık Modası"/></a><br/><strong>Matematik · Merve ile Sayma ve Olasılık Modası</strong><br/><sub>5 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-fizik-cembersel-hareket-f1-sinavi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918" width="240" alt="Fizik Çembersel Hareket F1 Sınavı"/></a><br/><strong>Fizik · Çembersel Hareket F1 Sınavı</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-fizik-tibbi-radyoaktivite-ve-klinik-goru"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a" width="240" alt="Fizik Tıbbi Radyoaktivite ve Klinik Görüntüleme Sınavı"/></a><br/><strong>Fizik · Tıbbi Radyoaktivite ve Klinik Görüntüleme</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db" width="240" alt="Biyoloji İleri Düzey İnsan Fizyolojisi Deneme Sınavı"/></a><br/><strong>Biyoloji · İleri Düzey İnsan Fizyolojisi</strong><br/><sub>21 sayfa · cevap anahtarı sonda</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2" width="240" alt="Tarih Soğuk Savaş Değerlendirme Testi"/></a><br/><strong>Tarih · Soğuk Savaş Değerlendirme Testi</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db" width="240" alt="Coğrafya Moda ve Sosyal Medyada Küreselleşme Testi"/></a><br/><strong>Coğrafya · Moda ve Sosyal Medyada Küreselleşme</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-biyoloji-ileri-duzey-insan-fizyolojisi-d"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db" width="240" alt="Biyoloji İleri Düzey İnsan Fizyolojisi Deneme Sınavı"/></a><br/><strong>Biyoloji · İleri Düzey İnsan Fizyolojisi</strong><br/><sub>21 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-tarih-soguk-savas-degerlendirme-testi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2" width="240" alt="Tarih Soğuk Savaş Değerlendirme Testi"/></a><br/><strong>Tarih · Soğuk Savaş Değerlendirme Testi</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-cografya-moda-ve-sosyal-medyada-kuresell"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db" width="240" alt="Coğrafya Moda ve Sosyal Medyada Küreselleşme Testi"/></a><br/><strong>Coğrafya · Moda ve Sosyal Medyada Küreselleşme</strong><br/><sub>6 sayfa · cevap anahtarı sonda</sub></td>
   </tr>
 </table>
 
-**[Testlerin tamamı web sitesinde →](https://tasvir.ai/tr/yks/#testler)**
+**[Testlerin tamamı web sitesinde →](https://tasvir.ai/tr/yks/?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=testler-ve-denemeler-testlerin-tamami-web-sitesinde#testler)**
 
 ### Matematik · 9 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| Zeynep İçin ÖSYM Tarzı Polinomlar Testi | 5 | [Aç](https://app.tasvir.ai/c/9a0f824b33ade70feedeb66850e1951c0ae6d824a0fa15ebff8389aefbf1e7c1/1) |
-| Zeynep İçin Günlük Hayat Matematik Denemesi | 5 | [Aç](https://app.tasvir.ai/c/a6038c84f0b1b208f43df5d6eb015c290c62a336ec80bf23778bf12bcdfbc210/1) |
-| Merve ile Sayma ve Olasılık Modası | 5 | [Aç](https://app.tasvir.ai/c/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb/1) |
-| TYT Fonksiyonlar Tematik Deneme Testi | 5 | [Aç](https://app.tasvir.ai/c/84466088251ccc67353e1aa232a443adb621c914f075e94ad6958778bd9270dc/1) |
-| Derya ile Kümeler ve Mantık Testi | 5 | [Aç](https://app.tasvir.ai/c/061ed1a19ce13e97d22b4b5cdc72e6bc67f47c0a442105ba02f2dc1c9ed61dbe/1) |
-| Mert İçin Spor Temalı Matematik Problemleri | 7 | [Aç](https://app.tasvir.ai/c/9621128e2d287032f131fecce8e13def802e988b428a1ab65731a713ea71c995/1) |
-| Emre İçin Üslü ve Köklü Sayılar Görevi | 7 | [Aç](https://app.tasvir.ai/c/855a7d27248f6fd7ff42962e930fdb9613a6dbbe741a0464380fa265cc0687ec/1) |
-| Zeynep İçin Rasyonel Sayılar Özel Denemesi | 4 | [Aç](https://app.tasvir.ai/c/0b491fe15a693b46534c9a6bf506c373420deed5ccafeb2707dc1bd97d303a67/1) |
-| Ali İçin Temel Kavramlar Testi | 6 | [Aç](https://app.tasvir.ai/c/9bc3ff51223bb54cdd59755d6639e7e6ffb0c12de404c43e19115da7a12eee6c/1) |
+| Zeynep İçin ÖSYM Tarzı Polinomlar Testi | 5 | [Aç](https://app.tasvir.ai/c/9a0f824b33ade70feedeb66850e1951c0ae6d824a0fa15ebff8389aefbf1e7c1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Zeynep İçin Günlük Hayat Matematik Denemesi | 5 | [Aç](https://app.tasvir.ai/c/a6038c84f0b1b208f43df5d6eb015c290c62a336ec80bf23778bf12bcdfbc210/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Merve ile Sayma ve Olasılık Modası | 5 | [Aç](https://app.tasvir.ai/c/ac843e9cc76862b65fae02e6150c5f47a590eb496755b001dbe324ae3ff114eb/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| TYT Fonksiyonlar Tematik Deneme Testi | 5 | [Aç](https://app.tasvir.ai/c/84466088251ccc67353e1aa232a443adb621c914f075e94ad6958778bd9270dc/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Derya ile Kümeler ve Mantık Testi | 5 | [Aç](https://app.tasvir.ai/c/061ed1a19ce13e97d22b4b5cdc72e6bc67f47c0a442105ba02f2dc1c9ed61dbe/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Mert İçin Spor Temalı Matematik Problemleri | 7 | [Aç](https://app.tasvir.ai/c/9621128e2d287032f131fecce8e13def802e988b428a1ab65731a713ea71c995/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Emre İçin Üslü ve Köklü Sayılar Görevi | 7 | [Aç](https://app.tasvir.ai/c/855a7d27248f6fd7ff42962e930fdb9613a6dbbe741a0464380fa265cc0687ec/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Zeynep İçin Rasyonel Sayılar Özel Denemesi | 4 | [Aç](https://app.tasvir.ai/c/0b491fe15a693b46534c9a6bf506c373420deed5ccafeb2707dc1bd97d303a67/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
+| Ali İçin Temel Kavramlar Testi | 6 | [Aç](https://app.tasvir.ai/c/9bc3ff51223bb54cdd59755d6639e7e6ffb0c12de404c43e19115da7a12eee6c/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=matematik-9-test-ac) |
 
 ### Fizik · 9 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| Çembersel Hareket F1 Sınavı | 6 | [Aç](https://app.tasvir.ai/c/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918/1) |
-| Elektrik ve Manyetizma İleri Düzey Sınavı | 14 | [Aç](https://app.tasvir.ai/c/bd022279461c03e7156cde596204c015887120078a6880d7d03a60e9a7ece2c5/1) |
-| ÖSYM Tarzı Optik Deneme Sınavı | 5 | [Aç](https://app.tasvir.ai/c/2ea4e99509292267b455d74f209eedfc84270379f59fac8769a815adbf0052cd/1) |
-| F1 Dinamiği ve Hareket Mekaniği Sınavı | 11 | [Aç](https://app.tasvir.ai/c/c4c45bd35689bf36dd5d46b1fe087d96a4971d9611e9b1a8da053c37369a82e2/1) |
-| Madde ve Özellikleri ÖSYM Deneme Testi | 6 | [Aç](https://app.tasvir.ai/c/8b4fd88890ce3203be5ce5cbc17c9c6f07610fbd5648b44cec6c1a94cd243ba5/1) |
-| Merve ile İçerik Üretiminde Fizik Testi | 4 | [Aç](https://app.tasvir.ai/c/7f462f867e84bf9226a2210b0c16f85ff52be5978a1bbdfe677b169c8ef7d734/1) |
-| Mert İçin Performans ve Enerji Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/647df9b459a3cb329a76f4bfe49bc431dc0630cf2b762ac72592e3ffa3af7c3d/1) |
-| Mert İçin Maddenin Halleri ve Spor Testi | 6 | [Aç](https://app.tasvir.ai/c/f2daed5fcb919dbe32a08fd93a5fd5ae8c17029fb52674d669561adbc99d70ff/1) |
-| Tıbbi Radyoaktivite ve Klinik Görüntüleme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a/1) |
+| Çembersel Hareket F1 Sınavı | 6 | [Aç](https://app.tasvir.ai/c/936411586abe368b334242fca36d2348bc569f4e077b0436529c8242c0bc6918/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Elektrik ve Manyetizma İleri Düzey Sınavı | 14 | [Aç](https://app.tasvir.ai/c/bd022279461c03e7156cde596204c015887120078a6880d7d03a60e9a7ece2c5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| ÖSYM Tarzı Optik Deneme Sınavı | 5 | [Aç](https://app.tasvir.ai/c/2ea4e99509292267b455d74f209eedfc84270379f59fac8769a815adbf0052cd/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| F1 Dinamiği ve Hareket Mekaniği Sınavı | 11 | [Aç](https://app.tasvir.ai/c/c4c45bd35689bf36dd5d46b1fe087d96a4971d9611e9b1a8da053c37369a82e2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Madde ve Özellikleri ÖSYM Deneme Testi | 6 | [Aç](https://app.tasvir.ai/c/8b4fd88890ce3203be5ce5cbc17c9c6f07610fbd5648b44cec6c1a94cd243ba5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Merve ile İçerik Üretiminde Fizik Testi | 4 | [Aç](https://app.tasvir.ai/c/7f462f867e84bf9226a2210b0c16f85ff52be5978a1bbdfe677b169c8ef7d734/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Mert İçin Performans ve Enerji Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/647df9b459a3cb329a76f4bfe49bc431dc0630cf2b762ac72592e3ffa3af7c3d/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Mert İçin Maddenin Halleri ve Spor Testi | 6 | [Aç](https://app.tasvir.ai/c/f2daed5fcb919dbe32a08fd93a5fd5ae8c17029fb52674d669561adbc99d70ff/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
+| Tıbbi Radyoaktivite ve Klinik Görüntüleme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/10f986d1dd1ff9726cd8a0e87589e4d885ef2be92914ff5c8411aae38cd4137a/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=fizik-9-test-ac) |
 
 ### Kimya · 7 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| AYT Kimya: Elektrokimya ve Batarya Testi | 7 | [Aç](https://app.tasvir.ai/c/baab5385b8e4ad8987874fa16d737f91de80b1b2498ac03729762658d13fe18b/1) |
-| Zeynep ile Asit-Baz Dengesi Sınavı | 4 | [Aç](https://app.tasvir.ai/c/19a68da6e31fd9a35f7be4963cf55c9135347378ba0b7df2a6894298d55225c7/1) |
-| Kimyasal Denge: Stratejik Hamleler Sınavı | 10 | [Aç](https://app.tasvir.ai/c/d32ca2e15b7eb95f6c66852875284c40f7015aecac53ae4e65e3af3e0399a406/1) |
-| Tepkimelerde Enerji ve Metabolizma Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/ad60f512ec76a972c01f444fef6f0e32cc982287a26a0e0b49ce847c88370c96/1) |
-| Çözeltiler ve Klinik Derişim Testi | 6 | [Aç](https://app.tasvir.ai/c/3ba78353a8020f407e3e12b4cf1fa6a7fd6e94d37f3fffe1ae602d70cccfceb2/1) |
-| Elif İçin Kimyasal Bağlar ÖSYM Denemesi | 6 | [Aç](https://app.tasvir.ai/c/ea949536d06f4806f7e615b4c506a362873fec4a074a4e2505f3be2cdbb02799/1) |
-| Ali İçin Atom ve Periyodik Sistem Deneme Sınavı | 7 | [Aç](https://app.tasvir.ai/c/a2ac36b96f24770aa676da315d14fd89cea7bc95ea41a14937db9b237478bd6b/1) |
+| AYT Kimya: Elektrokimya ve Batarya Testi | 7 | [Aç](https://app.tasvir.ai/c/baab5385b8e4ad8987874fa16d737f91de80b1b2498ac03729762658d13fe18b/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Zeynep ile Asit-Baz Dengesi Sınavı | 4 | [Aç](https://app.tasvir.ai/c/19a68da6e31fd9a35f7be4963cf55c9135347378ba0b7df2a6894298d55225c7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Kimyasal Denge: Stratejik Hamleler Sınavı | 10 | [Aç](https://app.tasvir.ai/c/d32ca2e15b7eb95f6c66852875284c40f7015aecac53ae4e65e3af3e0399a406/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Tepkimelerde Enerji ve Metabolizma Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/ad60f512ec76a972c01f444fef6f0e32cc982287a26a0e0b49ce847c88370c96/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Çözeltiler ve Klinik Derişim Testi | 6 | [Aç](https://app.tasvir.ai/c/3ba78353a8020f407e3e12b4cf1fa6a7fd6e94d37f3fffe1ae602d70cccfceb2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Elif İçin Kimyasal Bağlar ÖSYM Denemesi | 6 | [Aç](https://app.tasvir.ai/c/ea949536d06f4806f7e615b4c506a362873fec4a074a4e2505f3be2cdbb02799/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
+| Ali İçin Atom ve Periyodik Sistem Deneme Sınavı | 7 | [Aç](https://app.tasvir.ai/c/a2ac36b96f24770aa676da315d14fd89cea7bc95ea41a14937db9b237478bd6b/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=kimya-7-test-ac) |
 
 ### Biyoloji · 5 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| Doğada Bitki Biyolojisi Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/e6d74f3c897bfc70e00a7411eac8142346ea00720d3afda4c69685ceee198972/1) |
-| İleri Düzey İnsan Fizyolojisi Deneme Sınavı | 21 | [Aç](https://app.tasvir.ai/c/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db/1) |
-| Adli Genetik ve Kalıtım Deneme Sınavı | 9 | [Aç](https://app.tasvir.ai/c/e9d060474cf003b9661a5206dc03221728f9ffb3a96940b30ce91c3b82cbbd1f/1) |
-| Hücre Bölünmeleri ÖSYM Tarzı Deneme | 9 | [Aç](https://app.tasvir.ai/c/a7a1e6b30ab5b3b5f9e42dfe83b442ea31d57fe8c42a5a9f6b26e014ddff6011/1) |
-| Kardiyovasküler Fizyoloji ve Kan Basıncı Testi | 11 | [Aç](https://app.tasvir.ai/c/23bd526812ddd8558fbedaea5e27e77c9c4a32d06e71deb7ba36e96b90a524dc/1) |
+| Doğada Bitki Biyolojisi Değerlendirmesi | 6 | [Aç](https://app.tasvir.ai/c/e6d74f3c897bfc70e00a7411eac8142346ea00720d3afda4c69685ceee198972/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-5-test-ac) |
+| İleri Düzey İnsan Fizyolojisi Deneme Sınavı | 21 | [Aç](https://app.tasvir.ai/c/b67d2d08c4d095d8c9add23c9243bd8ce0c2c4c3c88906bf3d9cf528df7966db/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-5-test-ac) |
+| Adli Genetik ve Kalıtım Deneme Sınavı | 9 | [Aç](https://app.tasvir.ai/c/e9d060474cf003b9661a5206dc03221728f9ffb3a96940b30ce91c3b82cbbd1f/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-5-test-ac) |
+| Hücre Bölünmeleri ÖSYM Tarzı Deneme | 9 | [Aç](https://app.tasvir.ai/c/a7a1e6b30ab5b3b5f9e42dfe83b442ea31d57fe8c42a5a9f6b26e014ddff6011/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-5-test-ac) |
+| Kardiyovasküler Fizyoloji ve Kan Basıncı Testi | 11 | [Aç](https://app.tasvir.ai/c/23bd526812ddd8558fbedaea5e27e77c9c4a32d06e71deb7ba36e96b90a524dc/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biyoloji-5-test-ac) |
 
 ### Tarih · 7 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| Soğuk Savaş Değerlendirme Testi | 6 | [Aç](https://app.tasvir.ai/c/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2/1) |
-| Savaşlar Arası Dönem Sistem Analizi | 6 | [Aç](https://app.tasvir.ai/c/efb513f0bed363cffe708d2df91d644cb700b35215619244d196181eefc16261/1) |
-| 1. Dünya Savaşı ve Osmanlı Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/c8445e6ceb66bcb114e5022ec97a0b6ede2eabfccdb1252e5b342e18c10f133e/1) |
-| Osmanlı Dağılma Dönemi Kronoloji Testi | 6 | [Aç](https://app.tasvir.ai/c/933606a25bfdcd2ed0bb12b39eec89d4030077977c6fb4c85467bc6b27ec4cc5/1) |
-| Osmanlı Kuruluş ve Yükselme Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/1fb22927525982fd7ea7957e4fc5b02960ce57d17fdb23e2703dbf65e2edd934/1) |
-| Hız ve Strateji: İslamiyet Öncesi Türk Tarihi | 5 | [Aç](https://app.tasvir.ai/c/a764f50f1ee27c9cfa961729458b6816cd6b3e2592e14af5634fd21ba6c7da71/1) |
-| İlk Çağ Medeniyetleri Strateji ve Analiz Testi | 9 | [Aç](https://app.tasvir.ai/c/0c77d3a8eab001a65ce508fc8b4691b33c16e7722bfa3c4d40372b0151be5fd2/1) |
+| Soğuk Savaş Değerlendirme Testi | 6 | [Aç](https://app.tasvir.ai/c/4e46d38df7a6f7039c5670d9395bcebcc49056a7563483ef7ef763ed8360e9e2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| Savaşlar Arası Dönem Sistem Analizi | 6 | [Aç](https://app.tasvir.ai/c/efb513f0bed363cffe708d2df91d644cb700b35215619244d196181eefc16261/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| 1. Dünya Savaşı ve Osmanlı Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/c8445e6ceb66bcb114e5022ec97a0b6ede2eabfccdb1252e5b342e18c10f133e/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| Osmanlı Dağılma Dönemi Kronoloji Testi | 6 | [Aç](https://app.tasvir.ai/c/933606a25bfdcd2ed0bb12b39eec89d4030077977c6fb4c85467bc6b27ec4cc5/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| Osmanlı Kuruluş ve Yükselme Strateji Testi | 9 | [Aç](https://app.tasvir.ai/c/1fb22927525982fd7ea7957e4fc5b02960ce57d17fdb23e2703dbf65e2edd934/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| Hız ve Strateji: İslamiyet Öncesi Türk Tarihi | 5 | [Aç](https://app.tasvir.ai/c/a764f50f1ee27c9cfa961729458b6816cd6b3e2592e14af5634fd21ba6c7da71/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
+| İlk Çağ Medeniyetleri Strateji ve Analiz Testi | 9 | [Aç](https://app.tasvir.ai/c/0c77d3a8eab001a65ce508fc8b4691b33c16e7722bfa3c4d40372b0151be5fd2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=tarih-7-test-ac) |
 
 ### Coğrafya · 7 test
 
 | Test | Sayfa | |
 |---|---:|---|
-| Küresel Ticaret ve Strateji Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/6ba0100ad89f3b43553104c5b1ac8ad5ab1ef8f3cdf85e7a73078a3a11506441/1) |
-| Moda ve Sosyal Medyada Küreselleşme Testi | 6 | [Aç](https://app.tasvir.ai/c/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db/1) |
-| Merve ile Nüfus ve Yerleşme Analitiği Testi | 7 | [Aç](https://app.tasvir.ai/c/2ccfffa325c435c0fe558c597cf10224da3cc498b975fad097bae4876c1710d1/1) |
-| Derya ile Doğada İç ve Dış Kuvvetler Testi | 6 | [Aç](https://app.tasvir.ai/c/1594c634aeef5b4f644e1381201a68c37dc011ed9dc7609387259d8bf8492780/1) |
-| İklim Bilgisi ÖSYM Deneme Sınavı | 8 | [Aç](https://app.tasvir.ai/c/e8f60eb57928eb299ce4b5addf8b5baad6081c91826feea8be861bebc43fbc94/1) |
-| Kalkınma Projeleri Strateji ve Yönetim Testi | 5 | [Aç](https://app.tasvir.ai/c/dbaab04b17786b28f7ad89474e20b79af00e2a07147746ab0f3c459407c675d7/1) |
-| Türkiye Ekonomisi ve Otomotiv Sektörü Testi | 9 | [Aç](https://app.tasvir.ai/c/ccb276f32849a7cb3fe8d9164f824be2d45bedd6c7ec6f33420a907a09ddfdf2/1) |
+| Küresel Ticaret ve Strateji Deneme Sınavı | 6 | [Aç](https://app.tasvir.ai/c/6ba0100ad89f3b43553104c5b1ac8ad5ab1ef8f3cdf85e7a73078a3a11506441/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| Moda ve Sosyal Medyada Küreselleşme Testi | 6 | [Aç](https://app.tasvir.ai/c/4681825607c8bda73e392c7c76b624f4eb56f71d3ca65008b85336ab60ebb4db/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| Merve ile Nüfus ve Yerleşme Analitiği Testi | 7 | [Aç](https://app.tasvir.ai/c/2ccfffa325c435c0fe558c597cf10224da3cc498b975fad097bae4876c1710d1/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| Derya ile Doğada İç ve Dış Kuvvetler Testi | 6 | [Aç](https://app.tasvir.ai/c/1594c634aeef5b4f644e1381201a68c37dc011ed9dc7609387259d8bf8492780/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| İklim Bilgisi ÖSYM Deneme Sınavı | 8 | [Aç](https://app.tasvir.ai/c/e8f60eb57928eb299ce4b5addf8b5baad6081c91826feea8be861bebc43fbc94/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| Kalkınma Projeleri Strateji ve Yönetim Testi | 5 | [Aç](https://app.tasvir.ai/c/dbaab04b17786b28f7ad89474e20b79af00e2a07147746ab0f3c459407c675d7/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
+| Türkiye Ekonomisi ve Otomotiv Sektörü Testi | 9 | [Aç](https://app.tasvir.ai/c/ccb276f32849a7cb3fe8d9164f824be2d45bedd6c7ec6f33420a907a09ddfdf2/1?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=cografya-7-test-ac) |
 
 ---
 
