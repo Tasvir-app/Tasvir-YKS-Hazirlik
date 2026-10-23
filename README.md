@@ -12,6 +12,8 @@
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![tasvir.ai/tr](https://img.shields.io/badge/tasvir.ai%2Ftr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/?utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=biz-tek-cumle-yazdik-tasvir-ai-tr)
 
+<a href="https://apps.apple.com/app/id6787442701?mt=8&ct=github-yks-top"><img src="assets/badges/app-store-en.svg" alt="App Store'dan indirin" height="40"/></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ulug.tasvir&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dyks%26utm_content%3Dstore-top"><img src="assets/badges/google-play-en.svg" alt="Google Play'den alın" height="40"/></a>
+
 [🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · **📚 YKS Hazırlık** · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
 
 <br/>
@@ -906,6 +908,8 @@ Liste her hafta büyüyor: TYT Türkçe, TYT Felsefe, AYT Tarih, AYT Coğrafya v
 
 [![Ücretsiz başla](https://img.shields.io/badge/%C3%9Ccretsiz_ba%C5%9Fla-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=yks&utm_content=bottom)
 [![Tasvir ana repo](https://img.shields.io/badge/YKS_d%C4%B1%C5%9F%C4%B1_%C3%B6rnekler_%E2%86%92-0b0b12?style=for-the-badge)](https://github.com/Tasvir-app/Tasvir)
+
+<a href="https://apps.apple.com/app/id6787442701?mt=8&ct=github-yks-bottom"><img src="assets/badges/app-store-en.svg" alt="App Store'dan indirin" height="40"/></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ulug.tasvir&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dyks%26utm_content%3Dstore-bottom"><img src="assets/badges/google-play-en.svg" alt="Google Play'den alın" height="40"/></a>
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
 
